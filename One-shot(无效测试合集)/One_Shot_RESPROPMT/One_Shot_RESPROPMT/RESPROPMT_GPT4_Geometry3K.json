@@ -1,0 +1,3754 @@
+[
+    {
+        "id": 434,
+        "question": "Find x in the figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\434\\img_diagram.png",
+        "correctans": "34",
+        "length": 5,
+        "shape": [
+            "Rectangle"
+        ],
+        "shapenum": 1,
+        "total": 1,
+        "answer": "25.4",
+        "correct": 0,
+        "mistake": 1,
+        "error": 0,
+        "acc ": 0.0,
+        "mis": 1.0,
+        "err": 0.0
+    },
+    {
+        "id": 2454,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2454\\img_diagram.png",
+        "correctans": "9.3",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 2,
+        "answer": "10.15",
+        "correct": 0,
+        "mistake": 2,
+        "error": 0,
+        "acc ": 0.0,
+        "mis": 1.0,
+        "err": 0.0
+    },
+    {
+        "id": 132,
+        "question": "In \\odot A, W X = X Y = 22. Find A B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\132\\img_diagram.png",
+        "correctans": "10",
+        "length": 13,
+        "shape": [
+            "Circle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 3,
+        "answer": "13",
+        "correct": 0,
+        "mistake": 3,
+        "error": 0,
+        "acc ": 0.0,
+        "mis": 1.0,
+        "err": 0.0
+    },
+    {
+        "id": 1761,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1761\\img_diagram.png",
+        "correctans": "\\frac { 14 \\sqrt { 3 } } { 3 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 4,
+        "answer": "3",
+        "correct": 1,
+        "mistake": 3,
+        "error": 0,
+        "acc ": 0.25,
+        "mis": 0.75,
+        "err": 0.0
+    },
+    {
+        "id": 2611,
+        "question": "\\overrightarrow Q P and \\overrightarrow Q R are opposite rays, and \\overrightarrow Q T bisects \\angle S Q R. If m \\angle S Q R = 6 x + 8 and m \\angle T Q R = 4 x - 14, find m \\angle S Q T.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2611\\img_diagram.png",
+        "correctans": "58",
+        "length": 47,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 6,
+        "answer": "58",
+        "correct": 2,
+        "mistake": 3,
+        "error": 0,
+        "acc ": 0.3333333333333333,
+        "mis": 0.5,
+        "err": 0.0
+    },
+    {
+        "id": 372,
+        "question": "Find z.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\372\\img_diagram.png",
+        "correctans": "25",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 7,
+        "answer": "2.5",
+        "correct": 2,
+        "mistake": 4,
+        "error": 0,
+        "acc ": 0.2857142857142857,
+        "mis": 0.5714285714285714,
+        "err": 0.0
+    },
+    {
+        "id": 736,
+        "question": "Find the area of the blue region.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\736\\img_diagram.png",
+        "correctans": "114.2",
+        "length": 7,
+        "shape": [
+            "Circle",
+            "Square",
+            "Triangle"
+        ],
+        "shapenum": 3,
+        "total": 8,
+        "answer": "4",
+        "correct": 2,
+        "mistake": 5,
+        "error": 0,
+        "acc ": 0.25,
+        "mis": 0.625,
+        "err": 0.0
+    },
+    {
+        "id": 2898,
+        "question": "Find the area of the figure to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2898\\img_diagram.png",
+        "correctans": "31.1",
+        "length": 10,
+        "shape": [
+            "Circle",
+            "Rectangle"
+        ],
+        "shapenum": 2,
+        "total": 9,
+        "answer": "31.1",
+        "correct": 3,
+        "mistake": 5,
+        "error": 0,
+        "acc ": 0.3333333333333333,
+        "mis": 0.5555555555555556,
+        "err": 0.0
+    },
+    {
+        "id": 483,
+        "question": "Find y in the given parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\483\\img_diagram.png",
+        "correctans": "2",
+        "length": 6,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 10,
+        "answer": "2",
+        "correct": 4,
+        "mistake": 5,
+        "error": 0,
+        "acc ": 0.4,
+        "mis": 0.5,
+        "err": 0.0
+    },
+    {
+        "id": 687,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\687\\img_diagram.png",
+        "correctans": "20",
+        "length": 2,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 11,
+        "answer": "14",
+        "correct": 4,
+        "mistake": 6,
+        "error": 0,
+        "acc ": 0.36363636363636365,
+        "mis": 0.5454545454545454,
+        "err": 0.0
+    },
+    {
+        "id": 646,
+        "question": "Find y so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\646\\img_diagram.png",
+        "correctans": "15.5",
+        "length": 9,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 12,
+        "answer": "4",
+        "correct": 4,
+        "mistake": 7,
+        "error": 0,
+        "acc ": 0.3333333333333333,
+        "mis": 0.5833333333333334,
+        "err": 0.0
+    },
+    {
+        "id": 772,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\772\\img_diagram.png",
+        "correctans": "34",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 13,
+        "answer": "17",
+        "correct": 4,
+        "mistake": 8,
+        "error": 0,
+        "acc ": 0.3076923076923077,
+        "mis": 0.6153846153846154,
+        "err": 0.0
+    },
+    {
+        "id": 2966,
+        "question": "Find z in the given parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2966\\img_diagram.png",
+        "correctans": "4.5",
+        "length": 6,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 14,
+        "answer": "4.5",
+        "correct": 5,
+        "mistake": 8,
+        "error": 0,
+        "acc ": 0.35714285714285715,
+        "mis": 0.5714285714285714,
+        "err": 0.0
+    },
+    {
+        "id": 1367,
+        "question": "Quadrilateral M N O P is a rhombus. If m \\angle P O N = 124, find m \\angle P O M.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1367\\img_diagram.png",
+        "correctans": "62",
+        "length": 22,
+        "shape": [
+            "Rhombus"
+        ],
+        "shapenum": 1,
+        "total": 15,
+        "answer": "62",
+        "correct": 6,
+        "mistake": 8,
+        "error": 0,
+        "acc ": 0.4,
+        "mis": 0.5333333333333333,
+        "err": 0.0
+    },
+    {
+        "id": 2719,
+        "question": "Refer to the figure at the right. Find the value of m \\angle F C E if p \\parallel q.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2719\\img_diagram.png",
+        "correctans": "105",
+        "length": 20,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 16,
+        "answer": "165",
+        "correct": 6,
+        "mistake": 9,
+        "error": 0,
+        "acc ": 0.375,
+        "mis": 0.5625,
+        "err": 0.0
+    },
+    {
+        "id": 2182,
+        "question": "T V is tangent to the circle, and R and S are points on the circle. What is the value of x to the nearest tenth?",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2182\\img_diagram.png",
+        "correctans": "5.7",
+        "length": 26,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 17,
+        "answer": "3",
+        "correct": 6,
+        "mistake": 10,
+        "error": 0,
+        "acc ": 0.35294117647058826,
+        "mis": 0.5882352941176471,
+        "err": 0.0
+    },
+    {
+        "id": 2281,
+        "question": "Find Q S if \\triangle Q R S is an equilateral triangle.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2281\\img_diagram.png",
+        "correctans": "2",
+        "length": 12,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 18,
+        "answer": "2",
+        "correct": 7,
+        "mistake": 10,
+        "error": 0,
+        "acc ": 0.3888888888888889,
+        "mis": 0.5555555555555556,
+        "err": 0.0
+    },
+    {
+        "id": 1191,
+        "question": "Find x. Round the angle measure to the nearest degree.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1191\\img_diagram.png",
+        "correctans": "40",
+        "length": 10,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 19,
+        "answer": "85",
+        "correct": 7,
+        "mistake": 11,
+        "error": 0,
+        "acc ": 0.3684210526315789,
+        "mis": 0.5789473684210527,
+        "err": 0.0
+    },
+    {
+        "id": 1433,
+        "question": "Find y so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1433\\img_diagram.png",
+        "correctans": "41",
+        "length": 9,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 20,
+        "answer": "21",
+        "correct": 7,
+        "mistake": 12,
+        "error": 0,
+        "acc ": 0.35,
+        "mis": 0.6,
+        "err": 0.0
+    },
+    {
+        "id": 1953,
+        "question": "Find x so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1953\\img_diagram.png",
+        "correctans": "2",
+        "length": 9,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 21,
+        "answer": "2",
+        "correct": 8,
+        "mistake": 12,
+        "error": 0,
+        "acc ": 0.38095238095238093,
+        "mis": 0.5714285714285714,
+        "err": 0.0
+    },
+    {
+        "id": 830,
+        "question": "Find y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\830\\img_diagram.png",
+        "correctans": "15",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 22,
+        "answer": "256",
+        "correct": 8,
+        "mistake": 13,
+        "error": 0,
+        "acc ": 0.36363636363636365,
+        "mis": 0.5909090909090909,
+        "err": 0.0
+    },
+    {
+        "id": 1467,
+        "question": "Find m \\angle A B C if m \\widehat A B = 102.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1467\\img_diagram.png",
+        "correctans": "129",
+        "length": 13,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 23,
+        "answer": "51",
+        "correct": 8,
+        "mistake": 14,
+        "error": 0,
+        "acc ": 0.34782608695652173,
+        "mis": 0.6086956521739131,
+        "err": 0.0
+    },
+    {
+        "id": 2929,
+        "question": "If \\frac { I J } { X J } = \\frac { H J } { Y J }, m \\angle W X J = 130 and m \\angle W Z G = 20, find m \\angle J.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2929\\img_diagram.png",
+        "correctans": "60",
+        "length": 39,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 24,
+        "answer": "30",
+        "correct": 8,
+        "mistake": 15,
+        "error": 0,
+        "acc ": 0.3333333333333333,
+        "mis": 0.625,
+        "err": 0.0
+    },
+    {
+        "id": 2691,
+        "question": "Find Q S.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2691\\img_diagram.png",
+        "correctans": "25",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 25,
+        "answer": "25",
+        "correct": 9,
+        "mistake": 15,
+        "error": 0,
+        "acc ": 0.36,
+        "mis": 0.6,
+        "err": 0.0
+    },
+    {
+        "id": 2651,
+        "question": "Quadrilateral A B C D is inscribed in \\odot Z such that m \\angle B Z A = 104, m \\widehat C B = 94, and A B \\parallel D C. Find m \\angle Z A C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2651\\img_diagram.png",
+        "correctans": "9",
+        "length": 37,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 26,
+        "answer": "180",
+        "correct": 9,
+        "mistake": 16,
+        "error": 0,
+        "acc ": 0.34615384615384615,
+        "mis": 0.6153846153846154,
+        "err": 0.0
+    },
+    {
+        "id": 2327,
+        "question": "Find x so that p \\parallel q.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2327\\img_diagram.png",
+        "correctans": "15",
+        "length": 7,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 27,
+        "answer": "25",
+        "correct": 9,
+        "mistake": 17,
+        "error": 0,
+        "acc ": 0.3333333333333333,
+        "mis": 0.6296296296296297,
+        "err": 0.0
+    },
+    {
+        "id": 2282,
+        "question": "In the figure, m \\angle 1 = 53. Find the measure of \\angle 7.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2282\\img_diagram.png",
+        "correctans": "127",
+        "length": 14,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 28,
+        "answer": "127",
+        "correct": 10,
+        "mistake": 17,
+        "error": 0,
+        "acc ": 0.35714285714285715,
+        "mis": 0.6071428571428571,
+        "err": 0.0
+    },
+    {
+        "id": 2679,
+        "question": "The diagram shows the layout of Elm, Plum, and Oak streets. Find the value of x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2679\\img_diagram.png",
+        "correctans": "125",
+        "length": 16,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 29,
+        "answer": "55",
+        "correct": 10,
+        "mistake": 18,
+        "error": 0,
+        "acc ": 0.3448275862068966,
+        "mis": 0.6206896551724138,
+        "err": 0.0
+    },
+    {
+        "id": 1472,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1472\\img_diagram.png",
+        "correctans": "3 \\sqrt { 2 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 30,
+        "answer": "2",
+        "correct": 11,
+        "mistake": 18,
+        "error": 0,
+        "acc ": 0.36666666666666664,
+        "mis": 0.6,
+        "err": 0.0
+    },
+    {
+        "id": 490,
+        "question": "Find y so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\490\\img_diagram.png",
+        "correctans": "24",
+        "length": 9,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 31,
+        "answer": "24",
+        "correct": 12,
+        "mistake": 18,
+        "error": 0,
+        "acc ": 0.3870967741935484,
+        "mis": 0.5806451612903226,
+        "err": 0.0
+    },
+    {
+        "id": 676,
+        "question": "In \\triangle E D F, T is the centroid and F T = 12. Find T Q.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\676\\img_diagram.png",
+        "correctans": "6",
+        "length": 17,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 32,
+        "answer": "12",
+        "correct": 12,
+        "mistake": 19,
+        "error": 0,
+        "acc ": 0.375,
+        "mis": 0.59375,
+        "err": 0.0
+    },
+    {
+        "id": 2584,
+        "question": "In the figure, m \\angle 4 = 101. Find the measure of \\angle 6.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2584\\img_diagram.png",
+        "correctans": "101",
+        "length": 14,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 33,
+        "answer": "101",
+        "correct": 13,
+        "mistake": 19,
+        "error": 0,
+        "acc ": 0.3939393939393939,
+        "mis": 0.5757575757575758,
+        "err": 0.0
+    },
+    {
+        "id": 1601,
+        "question": "What is the area of the triangle? Round your answer to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1601\\img_diagram.png",
+        "correctans": "161.3",
+        "length": 16,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 34,
+        "answer": "48",
+        "correct": 13,
+        "mistake": 20,
+        "error": 0,
+        "acc ": 0.38235294117647056,
+        "mis": 0.5882352941176471,
+        "err": 0.0
+    },
+    {
+        "id": 1841,
+        "question": "Find the area of the shaded region formed by the circle and regular polygon. Round to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1841\\img_diagram.png",
+        "correctans": "1.9",
+        "length": 19,
+        "shape": [
+            "Circle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 35,
+        "answer": "5.0",
+        "correct": 13,
+        "mistake": 21,
+        "error": 0,
+        "acc ": 0.37142857142857144,
+        "mis": 0.6,
+        "err": 0.0
+    },
+    {
+        "id": 1791,
+        "question": "find \\cos B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1791\\img_diagram.png",
+        "correctans": "\\frac { 5 } { 7 }",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 36,
+        "answer": "0",
+        "correct": 13,
+        "mistake": 21,
+        "error": 1,
+        "acc ": 0.3611111111111111,
+        "mis": 0.5833333333333334,
+        "err": 0.027777777777777776
+    },
+    {
+        "id": 2899,
+        "question": "If C W = W F and E D = 30, what is D F?",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2899\\img_diagram.png",
+        "correctans": "15",
+        "length": 15,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 37,
+        "answer": "30",
+        "correct": 13,
+        "mistake": 22,
+        "error": 1,
+        "acc ": 0.35135135135135137,
+        "mis": 0.5945945945945946,
+        "err": 0.02702702702702703
+    },
+    {
+        "id": 2838,
+        "question": "If P R \\parallel K L, K N = 9, L N = 16, P M = 2 K P, find P R.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2838\\img_diagram.png",
+        "correctans": "\\frac { 50 } { 3 }",
+        "length": 23,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 38,
+        "answer": "3",
+        "correct": 14,
+        "mistake": 22,
+        "error": 1,
+        "acc ": 0.3684210526315789,
+        "mis": 0.5789473684210527,
+        "err": 0.02631578947368421
+    },
+    {
+        "id": 2924,
+        "question": "Find \\cos C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2924\\img_diagram.png",
+        "correctans": "\\frac { 4 } { 5 }",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 39,
+        "answer": "0.6",
+        "correct": 14,
+        "mistake": 23,
+        "error": 1,
+        "acc ": 0.358974358974359,
+        "mis": 0.5897435897435898,
+        "err": 0.02564102564102564
+    },
+    {
+        "id": 2908,
+        "question": "Find y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2908\\img_diagram.png",
+        "correctans": "5 \\sqrt { 5 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 40,
+        "answer": "15",
+        "correct": 14,
+        "mistake": 24,
+        "error": 1,
+        "acc ": 0.35,
+        "mis": 0.6,
+        "err": 0.025
+    },
+    {
+        "id": 1403,
+        "question": "In the figure, m \\angle 3 = 43. Find the measure of \\angle 13.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1403\\img_diagram.png",
+        "correctans": "43",
+        "length": 14,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 41,
+        "answer": "43",
+        "correct": 15,
+        "mistake": 24,
+        "error": 1,
+        "acc ": 0.36585365853658536,
+        "mis": 0.5853658536585366,
+        "err": 0.024390243902439025
+    },
+    {
+        "id": 2432,
+        "question": "Find the area of the figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2432\\img_diagram.png",
+        "correctans": "144",
+        "length": 6,
+        "shape": [
+            "Rectangle"
+        ],
+        "shapenum": 1,
+        "total": 42,
+        "answer": "144",
+        "correct": 16,
+        "mistake": 24,
+        "error": 1,
+        "acc ": 0.38095238095238093,
+        "mis": 0.5714285714285714,
+        "err": 0.023809523809523808
+    },
+    {
+        "id": 1762,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1762\\img_diagram.png",
+        "correctans": "70",
+        "length": 2,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 43,
+        "answer": "110",
+        "correct": 16,
+        "mistake": 25,
+        "error": 1,
+        "acc ": 0.37209302325581395,
+        "mis": 0.5813953488372093,
+        "err": 0.023255813953488372
+    },
+    {
+        "id": 1156,
+        "question": "If M N P Q \\sim X Y Z W, find the scale factor of M N P Q to X Y Z W.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1156\\img_diagram.png",
+        "correctans": "2",
+        "length": 24,
+        "shape": [
+            "Other"
+        ],
+        "shapenum": 1,
+        "total": 44,
+        "answer": "2",
+        "correct": 17,
+        "mistake": 25,
+        "error": 1,
+        "acc ": 0.38636363636363635,
+        "mis": 0.5681818181818182,
+        "err": 0.022727272727272728
+    },
+    {
+        "id": 1519,
+        "question": "Quadrilateral W X Y Z is a rectangle. If X Z = 2 c and Z Y = 6, and X Y = 8, find W Y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1519\\img_diagram.png",
+        "correctans": "10",
+        "length": 27,
+        "shape": [
+            "Rectangle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 45,
+        "answer": "10",
+        "correct": 18,
+        "mistake": 25,
+        "error": 1,
+        "acc ": 0.4,
+        "mis": 0.5555555555555556,
+        "err": 0.022222222222222223
+    },
+    {
+        "id": 670,
+        "question": "In the figure at the right, Y Z is the midsegment of trapezoid T W R V. Determine the value of x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\670\\img_diagram.png",
+        "correctans": "1.2",
+        "length": 22,
+        "shape": [
+            "Trapezoid"
+        ],
+        "shapenum": 1,
+        "total": 46,
+        "answer": "1.2",
+        "correct": 19,
+        "mistake": 25,
+        "error": 1,
+        "acc ": 0.41304347826086957,
+        "mis": 0.5434782608695652,
+        "err": 0.021739130434782608
+    },
+    {
+        "id": 1523,
+        "question": "Use parallelogram to find z.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1523\\img_diagram.png",
+        "correctans": "2",
+        "length": 5,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 47,
+        "answer": "2",
+        "correct": 20,
+        "mistake": 25,
+        "error": 1,
+        "acc ": 0.425531914893617,
+        "mis": 0.5319148936170213,
+        "err": 0.02127659574468085
+    },
+    {
+        "id": 1731,
+        "question": "For trapezoid Q R S T, M and P are midpoints of the legs. If Q R = 16, P M = 12, and T S = 4 x, find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1731\\img_diagram.png",
+        "correctans": "2",
+        "length": 31,
+        "shape": [
+            "Trapezoid"
+        ],
+        "shapenum": 1,
+        "total": 48,
+        "answer": "2",
+        "correct": 21,
+        "mistake": 25,
+        "error": 1,
+        "acc ": 0.4375,
+        "mis": 0.5208333333333334,
+        "err": 0.020833333333333332
+    },
+    {
+        "id": 1238,
+        "question": "Find the value of the variable x in the figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1238\\img_diagram.png",
+        "correctans": "70",
+        "length": 10,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 49,
+        "answer": "70",
+        "correct": 22,
+        "mistake": 25,
+        "error": 1,
+        "acc ": 0.4489795918367347,
+        "mis": 0.5102040816326531,
+        "err": 0.02040816326530612
+    },
+    {
+        "id": 81,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\81\\img_diagram.png",
+        "correctans": "2",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 50,
+        "answer": "6",
+        "correct": 22,
+        "mistake": 26,
+        "error": 1,
+        "acc ": 0.44,
+        "mis": 0.52,
+        "err": 0.02
+    },
+    {
+        "id": 1186,
+        "question": "\\triangle D F G and \\triangle F G H are isosceles, m \\angle F D H = 28 and D G \\cong F G \\cong F H. Find the measure of \\angle D F G.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1186\\img_diagram.png",
+        "correctans": "28",
+        "length": 35,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 51,
+        "answer": "76",
+        "correct": 22,
+        "mistake": 27,
+        "error": 1,
+        "acc ": 0.43137254901960786,
+        "mis": 0.5294117647058824,
+        "err": 0.0196078431372549
+    },
+    {
+        "id": 903,
+        "question": "Points S, T, and U are the midpoints of D E, E F, and D F, respectively. Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\903\\img_diagram.png",
+        "correctans": "4",
+        "length": 19,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 52,
+        "answer": "5.4",
+        "correct": 22,
+        "mistake": 28,
+        "error": 1,
+        "acc ": 0.4230769230769231,
+        "mis": 0.5384615384615384,
+        "err": 0.019230769230769232
+    },
+    {
+        "id": 1557,
+        "question": "Find P Q.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1557\\img_diagram.png",
+        "correctans": "15",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 53,
+        "answer": "14",
+        "correct": 22,
+        "mistake": 29,
+        "error": 1,
+        "acc ": 0.41509433962264153,
+        "mis": 0.5471698113207547,
+        "err": 0.018867924528301886
+    },
+    {
+        "id": 824,
+        "question": "In the figure, m \\angle 1 = 94. Find the measure of \\angle 5.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\824\\img_diagram.png",
+        "correctans": "94",
+        "length": 14,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 54,
+        "answer": "94",
+        "correct": 23,
+        "mistake": 29,
+        "error": 1,
+        "acc ": 0.42592592592592593,
+        "mis": 0.5370370370370371,
+        "err": 0.018518518518518517
+    },
+    {
+        "id": 960,
+        "question": "If J, P, and L are the midpoints of K H, H M and M K, respectively. Find z.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\960\\img_diagram.png",
+        "correctans": "1",
+        "length": 19,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 55,
+        "answer": "2",
+        "correct": 23,
+        "mistake": 30,
+        "error": 1,
+        "acc ": 0.41818181818181815,
+        "mis": 0.5454545454545454,
+        "err": 0.01818181818181818
+    },
+    {
+        "id": 1007,
+        "question": "In the figure, m \\angle 12 = 64. Find the measure of \\angle 8.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1007\\img_diagram.png",
+        "correctans": "116",
+        "length": 14,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 56,
+        "answer": "64",
+        "correct": 23,
+        "mistake": 31,
+        "error": 1,
+        "acc ": 0.4107142857142857,
+        "mis": 0.5535714285714286,
+        "err": 0.017857142857142856
+    },
+    {
+        "id": 465,
+        "question": "Find y and so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\465\\img_diagram.png",
+        "correctans": "\\frac { 4 } { 3 }",
+        "length": 10,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 57,
+        "answer": "0",
+        "correct": 23,
+        "mistake": 31,
+        "error": 2,
+        "acc ": 0.40350877192982454,
+        "mis": 0.543859649122807,
+        "err": 0.03508771929824561
+    },
+    {
+        "id": 2334,
+        "question": "Find m \\angle B A C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2334\\img_diagram.png",
+        "correctans": "60",
+        "length": 6,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 58,
+        "answer": "60",
+        "correct": 24,
+        "mistake": 31,
+        "error": 2,
+        "acc ": 0.41379310344827586,
+        "mis": 0.5344827586206896,
+        "err": 0.034482758620689655
+    },
+    {
+        "id": 389,
+        "question": "U J = 9, V J = 3, and Z T = 18. Find J T.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\389\\img_diagram.png",
+        "correctans": "6",
+        "length": 16,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 59,
+        "answer": "4.5",
+        "correct": 24,
+        "mistake": 32,
+        "error": 2,
+        "acc ": 0.4067796610169492,
+        "mis": 0.5423728813559322,
+        "err": 0.03389830508474576
+    },
+    {
+        "id": 610,
+        "question": "parallelogram M N P Q with m \\angle M = 10 x and m \\angle N = 20 x, find \\angle N.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\610\\img_diagram.png",
+        "correctans": "120",
+        "length": 22,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 60,
+        "answer": "120",
+        "correct": 25,
+        "mistake": 32,
+        "error": 2,
+        "acc ": 0.4166666666666667,
+        "mis": 0.5333333333333333,
+        "err": 0.03333333333333333
+    },
+    {
+        "id": 852,
+        "question": "Find m \\angle B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\852\\img_diagram.png",
+        "correctans": "120",
+        "length": 4,
+        "shape": [
+            "Other"
+        ],
+        "shapenum": 1,
+        "total": 61,
+        "answer": "93",
+        "correct": 25,
+        "mistake": 33,
+        "error": 2,
+        "acc ": 0.4098360655737705,
+        "mis": 0.5409836065573771,
+        "err": 0.03278688524590164
+    },
+    {
+        "id": 2189,
+        "question": "a = 8, b = 15, and c = 17, find \\sin B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2189\\img_diagram.png",
+        "correctans": "0.88",
+        "length": 13,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 62,
+        "answer": "17",
+        "correct": 25,
+        "mistake": 34,
+        "error": 2,
+        "acc ": 0.4032258064516129,
+        "mis": 0.5483870967741935,
+        "err": 0.03225806451612903
+    },
+    {
+        "id": 1392,
+        "question": "Find x in the figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1392\\img_diagram.png",
+        "correctans": "90",
+        "length": 5,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 63,
+        "answer": "19",
+        "correct": 25,
+        "mistake": 35,
+        "error": 2,
+        "acc ": 0.3968253968253968,
+        "mis": 0.5555555555555556,
+        "err": 0.031746031746031744
+    },
+    {
+        "id": 1061,
+        "question": "Find \\sin A.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1061\\img_diagram.png",
+        "correctans": "\\sqrt { 26 } / 26",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 64,
+        "answer": "4",
+        "correct": 25,
+        "mistake": 36,
+        "error": 2,
+        "acc ": 0.390625,
+        "mis": 0.5625,
+        "err": 0.03125
+    },
+    {
+        "id": 1471,
+        "question": "Use parallelogram A B C D to find m \\angle B C D.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1471\\img_diagram.png",
+        "correctans": "52",
+        "length": 13,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 65,
+        "answer": "20",
+        "correct": 25,
+        "mistake": 37,
+        "error": 2,
+        "acc ": 0.38461538461538464,
+        "mis": 0.5692307692307692,
+        "err": 0.03076923076923077
+    },
+    {
+        "id": 526,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\526\\img_diagram.png",
+        "correctans": "70",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 66,
+        "answer": "10.3846",
+        "correct": 25,
+        "mistake": 38,
+        "error": 2,
+        "acc ": 0.3787878787878788,
+        "mis": 0.5757575757575758,
+        "err": 0.030303030303030304
+    },
+    {
+        "id": 669,
+        "question": "Find x. Round to the nearest tenth if necessary. Assume that segments that appear to be tangent are tangent.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\669\\img_diagram.png",
+        "correctans": "6",
+        "length": 19,
+        "shape": [
+            "Line",
+            "Circle"
+        ],
+        "shapenum": 2,
+        "total": 67,
+        "answer": "9.5",
+        "correct": 25,
+        "mistake": 39,
+        "error": 2,
+        "acc ": 0.373134328358209,
+        "mis": 0.582089552238806,
+        "err": 0.029850746268656716
+    },
+    {
+        "id": 2308,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2308\\img_diagram.png",
+        "correctans": "18",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 69,
+        "answer": "18",
+        "correct": 26,
+        "mistake": 39,
+        "error": 2,
+        "acc ": 0.37681159420289856,
+        "mis": 0.5652173913043478,
+        "err": 0.028985507246376812
+    },
+    {
+        "id": 1936,
+        "question": "In rhombus L M P Q, m \\angle Q L M = 2 x^ { 2 } - 10, m \\angle Q P M = 8 x, and M P = 10. Find Q L.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1936\\img_diagram.png",
+        "correctans": "10",
+        "length": 35,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 70,
+        "answer": "10",
+        "correct": 27,
+        "mistake": 39,
+        "error": 2,
+        "acc ": 0.38571428571428573,
+        "mis": 0.5571428571428572,
+        "err": 0.02857142857142857
+    },
+    {
+        "id": 2087,
+        "question": "Find the area of the shaded region.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\2087\\img_diagram.png",
+        "correctans": "50.3",
+        "length": 7,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 71,
+        "answer": "12",
+        "correct": 27,
+        "mistake": 40,
+        "error": 2,
+        "acc ": 0.38028169014084506,
+        "mis": 0.5633802816901409,
+        "err": 0.028169014084507043
+    },
+    {
+        "id": 463,
+        "question": "Find x. Round the angle measure to the nearest degree.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\463\\img_diagram.png",
+        "correctans": "112",
+        "length": 10,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 72,
+        "answer": "6.5",
+        "correct": 27,
+        "mistake": 41,
+        "error": 2,
+        "acc ": 0.375,
+        "mis": 0.5694444444444444,
+        "err": 0.027777777777777776
+    },
+    {
+        "id": 2358,
+        "question": "Find m \\angle 1.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2358\\img_diagram.png",
+        "correctans": "38",
+        "length": 4,
+        "shape": [
+            "Rectangle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 73,
+        "answer": "52",
+        "correct": 27,
+        "mistake": 42,
+        "error": 2,
+        "acc ": 0.3698630136986301,
+        "mis": 0.5753424657534246,
+        "err": 0.0273972602739726
+    },
+    {
+        "id": 319,
+        "question": "Find the area of the shaded region. Assume that all polygons that appear to be regular are regular. Round to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\319\\img_diagram.png",
+        "correctans": "18.5",
+        "length": 23,
+        "shape": [
+            "Circle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 74,
+        "answer": "18.5",
+        "correct": 28,
+        "mistake": 42,
+        "error": 2,
+        "acc ": 0.3783783783783784,
+        "mis": 0.5675675675675675,
+        "err": 0.02702702702702703
+    },
+    {
+        "id": 976,
+        "question": "M C = 7, R M = 4, and A T = 16. Find R B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\976\\img_diagram.png",
+        "correctans": "12",
+        "length": 16,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 75,
+        "answer": "16",
+        "correct": 28,
+        "mistake": 43,
+        "error": 2,
+        "acc ": 0.37333333333333335,
+        "mis": 0.5733333333333334,
+        "err": 0.02666666666666667
+    },
+    {
+        "id": 1330,
+        "question": "Find x so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1330\\img_diagram.png",
+        "correctans": "11",
+        "length": 9,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 76,
+        "answer": "11",
+        "correct": 29,
+        "mistake": 43,
+        "error": 2,
+        "acc ": 0.3815789473684211,
+        "mis": 0.5657894736842105,
+        "err": 0.02631578947368421
+    },
+    {
+        "id": 586,
+        "question": "Find y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\586\\img_diagram.png",
+        "correctans": "\\frac { 15 } { 2 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 77,
+        "answer": "7.5",
+        "correct": 29,
+        "mistake": 44,
+        "error": 2,
+        "acc ": 0.37662337662337664,
+        "mis": 0.5714285714285714,
+        "err": 0.025974025974025976
+    },
+    {
+        "id": 918,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\918\\img_diagram.png",
+        "correctans": "45",
+        "length": 2,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 78,
+        "answer": "45",
+        "correct": 30,
+        "mistake": 44,
+        "error": 2,
+        "acc ": 0.38461538461538464,
+        "mis": 0.5641025641025641,
+        "err": 0.02564102564102564
+    },
+    {
+        "id": 1594,
+        "question": "Find the measure of \\angle 4 if m \\angle 4 = m \\angle 5.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1594\\img_diagram.png",
+        "correctans": "32",
+        "length": 14,
+        "shape": [
+            "Line",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 79,
+        "answer": "64",
+        "correct": 30,
+        "mistake": 45,
+        "error": 2,
+        "acc ": 0.379746835443038,
+        "mis": 0.569620253164557,
+        "err": 0.02531645569620253
+    },
+    {
+        "id": 1046,
+        "question": "Find B D.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1046\\img_diagram.png",
+        "correctans": "5",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 81,
+        "answer": "3",
+        "correct": 30,
+        "mistake": 46,
+        "error": 2,
+        "acc ": 0.37037037037037035,
+        "mis": 0.5679012345679012,
+        "err": 0.024691358024691357
+    },
+    {
+        "id": 1788,
+        "question": "Find y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1788\\img_diagram.png",
+        "correctans": "\\frac { 19 \\sqrt { 2 } } { 2 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 82,
+        "answer": "2",
+        "correct": 31,
+        "mistake": 46,
+        "error": 2,
+        "acc ": 0.3780487804878049,
+        "mis": 0.5609756097560976,
+        "err": 0.024390243902439025
+    },
+    {
+        "id": 2704,
+        "question": "Find x. A = 357 in^2.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2704\\img_diagram.png",
+        "correctans": "21",
+        "length": 6,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 83,
+        "answer": "21",
+        "correct": 32,
+        "mistake": 46,
+        "error": 2,
+        "acc ": 0.3855421686746988,
+        "mis": 0.5542168674698795,
+        "err": 0.024096385542168676
+    },
+    {
+        "id": 2800,
+        "question": "Find the area of the parallelogram. Round to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2800\\img_diagram.png",
+        "correctans": "1440",
+        "length": 13,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 84,
+        "answer": "1440",
+        "correct": 33,
+        "mistake": 46,
+        "error": 2,
+        "acc ": 0.39285714285714285,
+        "mis": 0.5476190476190477,
+        "err": 0.023809523809523808
+    },
+    {
+        "id": 1466,
+        "question": "If A B = 60 and D E = 48, find C F.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1466\\img_diagram.png",
+        "correctans": "18",
+        "length": 13,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 85,
+        "answer": "48",
+        "correct": 33,
+        "mistake": 47,
+        "error": 2,
+        "acc ": 0.38823529411764707,
+        "mis": 0.5529411764705883,
+        "err": 0.023529411764705882
+    },
+    {
+        "id": 1146,
+        "question": "Find the area of the figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1146\\img_diagram.png",
+        "correctans": "938.4",
+        "length": 6,
+        "shape": [
+            "Circle",
+            "Trapezoid"
+        ],
+        "shapenum": 2,
+        "total": 86,
+        "answer": "803.4291",
+        "correct": 33,
+        "mistake": 48,
+        "error": 2,
+        "acc ": 0.38372093023255816,
+        "mis": 0.5581395348837209,
+        "err": 0.023255813953488372
+    },
+    {
+        "id": 2868,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2868\\img_diagram.png",
+        "correctans": "9.6",
+        "length": 2,
+        "shape": [
+            "Line",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 87,
+        "answer": "6.86",
+        "correct": 33,
+        "mistake": 49,
+        "error": 2,
+        "acc ": 0.3793103448275862,
+        "mis": 0.5632183908045977,
+        "err": 0.022988505747126436
+    },
+    {
+        "id": 1211,
+        "question": "Find the area of the shaded sector. Round to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1211\\img_diagram.png",
+        "correctans": "7.4",
+        "length": 12,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 88,
+        "answer": "7.4",
+        "correct": 34,
+        "mistake": 49,
+        "error": 2,
+        "acc ": 0.38636363636363635,
+        "mis": 0.5568181818181818,
+        "err": 0.022727272727272728
+    },
+    {
+        "id": 1253,
+        "question": "In \\odot B, m \\angle L B M = 3 x and m \\angle L B Q = 4 x + 61. What is the measure of \\angle P B Q?",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1253\\img_diagram.png",
+        "correctans": "51",
+        "length": 31,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 89,
+        "answer": "64.5",
+        "correct": 34,
+        "mistake": 50,
+        "error": 2,
+        "acc ": 0.38202247191011235,
+        "mis": 0.5617977528089888,
+        "err": 0.02247191011235955
+    },
+    {
+        "id": 204,
+        "question": "In the figure, m \\angle 3 = 43. Find the measure of \\angle 10.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\204\\img_diagram.png",
+        "correctans": "137",
+        "length": 14,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 90,
+        "answer": "137",
+        "correct": 35,
+        "mistake": 50,
+        "error": 2,
+        "acc ": 0.3888888888888889,
+        "mis": 0.5555555555555556,
+        "err": 0.022222222222222223
+    },
+    {
+        "id": 2590,
+        "question": "Find G I if G H = 9, G K = 6, and K J = 4.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2590\\img_diagram.png",
+        "correctans": "15",
+        "length": 17,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 91,
+        "answer": "13",
+        "correct": 35,
+        "mistake": 51,
+        "error": 2,
+        "acc ": 0.38461538461538464,
+        "mis": 0.5604395604395604,
+        "err": 0.02197802197802198
+    },
+    {
+        "id": 1242,
+        "question": "If \\angle R S T is a right angle, S U \\perp R T, U V \\perp S T, and m \\angle R T S = 47, find m \\angle S U V.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1242\\img_diagram.png",
+        "correctans": "47",
+        "length": 33,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 92,
+        "answer": "43",
+        "correct": 35,
+        "mistake": 52,
+        "error": 2,
+        "acc ": 0.3804347826086957,
+        "mis": 0.5652173913043478,
+        "err": 0.021739130434782608
+    },
+    {
+        "id": 1866,
+        "question": "Find the area of the shaded region. Round to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1866\\img_diagram.png",
+        "correctans": "68.7",
+        "length": 12,
+        "shape": [
+            "Circle",
+            "Rectangle"
+        ],
+        "shapenum": 2,
+        "total": 93,
+        "answer": "9",
+        "correct": 35,
+        "mistake": 53,
+        "error": 2,
+        "acc ": 0.3763440860215054,
+        "mis": 0.5698924731182796,
+        "err": 0.021505376344086023
+    },
+    {
+        "id": 1161,
+        "question": "Use the Pythagorean Theorem to find the length of the hypotenuse of the right triangle.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1161\\img_diagram.png",
+        "correctans": "5",
+        "length": 15,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 94,
+        "answer": "5",
+        "correct": 36,
+        "mistake": 53,
+        "error": 2,
+        "acc ": 0.3829787234042553,
+        "mis": 0.5638297872340425,
+        "err": 0.02127659574468085
+    },
+    {
+        "id": 1307,
+        "question": "Find m \\angle 7.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1307\\img_diagram.png",
+        "correctans": "53",
+        "length": 4,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 95,
+        "answer": "85",
+        "correct": 36,
+        "mistake": 54,
+        "error": 2,
+        "acc ": 0.37894736842105264,
+        "mis": 0.5684210526315789,
+        "err": 0.021052631578947368
+    },
+    {
+        "id": 1982,
+        "question": "B C \\parallel D F. A C = 15, B D = 3 x - 2, C F = 3 x + 2, and A B = 12. Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1982\\img_diagram.png",
+        "correctans": "6",
+        "length": 30,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 96,
+        "answer": "2.5",
+        "correct": 36,
+        "mistake": 55,
+        "error": 2,
+        "acc ": 0.375,
+        "mis": 0.5729166666666666,
+        "err": 0.020833333333333332
+    },
+    {
+        "id": 2178,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2178\\img_diagram.png",
+        "correctans": "4.5",
+        "length": 2,
+        "shape": [
+            "Rhombus"
+        ],
+        "shapenum": 1,
+        "total": 97,
+        "answer": "4.5",
+        "correct": 37,
+        "mistake": 55,
+        "error": 2,
+        "acc ": 0.38144329896907214,
+        "mis": 0.5670103092783505,
+        "err": 0.020618556701030927
+    },
+    {
+        "id": 2192,
+        "question": "Find the area of the figure. Round to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2192\\img_diagram.png",
+        "correctans": "814",
+        "length": 13,
+        "shape": [
+            "Trapezoid"
+        ],
+        "shapenum": 1,
+        "total": 98,
+        "answer": "270",
+        "correct": 37,
+        "mistake": 56,
+        "error": 2,
+        "acc ": 0.37755102040816324,
+        "mis": 0.5714285714285714,
+        "err": 0.02040816326530612
+    },
+    {
+        "id": 2832,
+        "question": "Find m \\angle 3.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2832\\img_diagram.png",
+        "correctans": "66",
+        "length": 4,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 99,
+        "answer": "104",
+        "correct": 37,
+        "mistake": 57,
+        "error": 2,
+        "acc ": 0.37373737373737376,
+        "mis": 0.5757575757575758,
+        "err": 0.020202020202020204
+    },
+    {
+        "id": 1427,
+        "question": "Find y so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1427\\img_diagram.png",
+        "correctans": "12",
+        "length": 9,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 100,
+        "answer": "55",
+        "correct": 37,
+        "mistake": 58,
+        "error": 2,
+        "acc ": 0.37,
+        "mis": 0.58,
+        "err": 0.02
+    },
+    {
+        "id": 2474,
+        "question": "parallelogram M N P Q with m \\angle M = 10 x and m \\angle N = 20 x, find \\angle M.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2474\\img_diagram.png",
+        "correctans": "60",
+        "length": 22,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 101,
+        "answer": "60",
+        "correct": 38,
+        "mistake": 58,
+        "error": 2,
+        "acc ": 0.37623762376237624,
+        "mis": 0.5742574257425742,
+        "err": 0.019801980198019802
+    },
+    {
+        "id": 523,
+        "question": "What is the area of the triangle below? Round your answer to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\523\\img_diagram.png",
+        "correctans": "171.9",
+        "length": 17,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 102,
+        "answer": "71.2",
+        "correct": 38,
+        "mistake": 59,
+        "error": 2,
+        "acc ": 0.37254901960784315,
+        "mis": 0.5784313725490197,
+        "err": 0.0196078431372549
+    },
+    {
+        "id": 2529,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2529\\img_diagram.png",
+        "correctans": "10 \\sqrt { 3 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 103,
+        "answer": "10",
+        "correct": 38,
+        "mistake": 60,
+        "error": 2,
+        "acc ": 0.36893203883495146,
+        "mis": 0.5825242718446602,
+        "err": 0.019417475728155338
+    },
+    {
+        "id": 775,
+        "question": "Find x so that p \\parallel q.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\775\\img_diagram.png",
+        "correctans": "9",
+        "length": 7,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 104,
+        "answer": "2.14",
+        "correct": 38,
+        "mistake": 61,
+        "error": 2,
+        "acc ": 0.36538461538461536,
+        "mis": 0.5865384615384616,
+        "err": 0.019230769230769232
+    },
+    {
+        "id": 717,
+        "question": "If P R \\parallel K L, K N = 9, L N = 16, and P M = 2K P, find K P.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\717\\img_diagram.png",
+        "correctans": "5",
+        "length": 23,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 105,
+        "answer": "3",
+        "correct": 38,
+        "mistake": 62,
+        "error": 2,
+        "acc ": 0.3619047619047619,
+        "mis": 0.5904761904761905,
+        "err": 0.01904761904761905
+    },
+    {
+        "id": 2208,
+        "question": "Find x. Round to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2208\\img_diagram.png",
+        "correctans": "28.1",
+        "length": 9,
+        "shape": [
+            "Line",
+            "Circle"
+        ],
+        "shapenum": 2,
+        "total": 106,
+        "answer": "20",
+        "correct": 38,
+        "mistake": 63,
+        "error": 2,
+        "acc ": 0.3584905660377358,
+        "mis": 0.5943396226415094,
+        "err": 0.018867924528301886
+    },
+    {
+        "id": 1797,
+        "question": "Find m \\angle 5.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1797\\img_diagram.png",
+        "correctans": "110",
+        "length": 4,
+        "shape": [
+            "Line",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 107,
+        "answer": "40",
+        "correct": 38,
+        "mistake": 64,
+        "error": 2,
+        "acc ": 0.35514018691588783,
+        "mis": 0.5981308411214953,
+        "err": 0.018691588785046728
+    },
+    {
+        "id": 76,
+        "question": "Find the area of the triangle. Round to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\76\\img_diagram.png",
+        "correctans": "129.9",
+        "length": 13,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 108,
+        "answer": "150",
+        "correct": 38,
+        "mistake": 65,
+        "error": 2,
+        "acc ": 0.35185185185185186,
+        "mis": 0.6018518518518519,
+        "err": 0.018518518518518517
+    },
+    {
+        "id": 1787,
+        "question": "The segment is tangent to the circle. Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1787\\img_diagram.png",
+        "correctans": "3",
+        "length": 9,
+        "shape": [
+            "Circle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 109,
+        "answer": "29",
+        "correct": 38,
+        "mistake": 66,
+        "error": 2,
+        "acc ": 0.3486238532110092,
+        "mis": 0.6055045871559633,
+        "err": 0.01834862385321101
+    },
+    {
+        "id": 314,
+        "question": "Find the measure of x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\314\\img_diagram.png",
+        "correctans": "0.5",
+        "length": 5,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 110,
+        "answer": "0.5",
+        "correct": 39,
+        "mistake": 66,
+        "error": 2,
+        "acc ": 0.35454545454545455,
+        "mis": 0.6,
+        "err": 0.01818181818181818
+    },
+    {
+        "id": 758,
+        "question": "Find Q X if E X = 24 and D E = 7.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\758\\img_diagram.png",
+        "correctans": "18",
+        "length": 13,
+        "shape": [
+            "Circle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 111,
+        "answer": "7",
+        "correct": 39,
+        "mistake": 67,
+        "error": 2,
+        "acc ": 0.35135135135135137,
+        "mis": 0.6036036036036037,
+        "err": 0.018018018018018018
+    },
+    {
+        "id": 1976,
+        "question": "Find x so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1976\\img_diagram.png",
+        "correctans": "2",
+        "length": 9,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 112,
+        "answer": "29",
+        "correct": 39,
+        "mistake": 68,
+        "error": 2,
+        "acc ": 0.3482142857142857,
+        "mis": 0.6071428571428571,
+        "err": 0.017857142857142856
+    },
+    {
+        "id": 2098,
+        "question": "Find the area of the figure. Round to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\2098\\img_diagram.png",
+        "correctans": "12",
+        "length": 11,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 113,
+        "answer": "12",
+        "correct": 40,
+        "mistake": 68,
+        "error": 2,
+        "acc ": 0.35398230088495575,
+        "mis": 0.6017699115044248,
+        "err": 0.017699115044247787
+    },
+    {
+        "id": 446,
+        "question": "Use parallelogram A B C D to find m \\angle B D C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\446\\img_diagram.png",
+        "correctans": "87.9",
+        "length": 13,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 114,
+        "answer": "20",
+        "correct": 40,
+        "mistake": 69,
+        "error": 2,
+        "acc ": 0.3508771929824561,
+        "mis": 0.6052631578947368,
+        "err": 0.017543859649122806
+    },
+    {
+        "id": 1502,
+        "question": "Find x. Assume that segments that appear to be tangent are tangent.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1502\\img_diagram.png",
+        "correctans": "4",
+        "length": 12,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 115,
+        "answer": "6",
+        "correct": 40,
+        "mistake": 70,
+        "error": 2,
+        "acc ": 0.34782608695652173,
+        "mis": 0.6086956521739131,
+        "err": 0.017391304347826087
+    },
+    {
+        "id": 1190,
+        "question": "in \\triangle X Y Z, P is the centroid, K P = 3, and X J = 8. Find X K.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1190\\img_diagram.png",
+        "correctans": "9",
+        "length": 21,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 116,
+        "answer": "8",
+        "correct": 40,
+        "mistake": 71,
+        "error": 2,
+        "acc ": 0.3448275862068966,
+        "mis": 0.6120689655172413,
+        "err": 0.017241379310344827
+    },
+    {
+        "id": 73,
+        "question": "Find y in \\triangle P Q R.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\73\\img_diagram.png",
+        "correctans": "2 \\sqrt { 3 }",
+        "length": 7,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 117,
+        "answer": "2",
+        "correct": 40,
+        "mistake": 72,
+        "error": 2,
+        "acc ": 0.3418803418803419,
+        "mis": 0.6153846153846154,
+        "err": 0.017094017094017096
+    },
+    {
+        "id": 1633,
+        "question": "Quadrilateral A B C D is a rectangle. Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1633\\img_diagram.png",
+        "correctans": "5",
+        "length": 10,
+        "shape": [
+            "Rectangle"
+        ],
+        "shapenum": 1,
+        "total": 118,
+        "answer": "1",
+        "correct": 40,
+        "mistake": 73,
+        "error": 2,
+        "acc ": 0.3389830508474576,
+        "mis": 0.6186440677966102,
+        "err": 0.01694915254237288
+    },
+    {
+        "id": 1735,
+        "question": "Quadrilateral W X Y Z is a rectangle. If Z Y = 2 x + 3 and W X = x + 4, find W X.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1735\\img_diagram.png",
+        "correctans": "5",
+        "length": 26,
+        "shape": [
+            "Rectangle"
+        ],
+        "shapenum": 1,
+        "total": 119,
+        "answer": "5",
+        "correct": 41,
+        "mistake": 73,
+        "error": 2,
+        "acc ": 0.3445378151260504,
+        "mis": 0.6134453781512605,
+        "err": 0.01680672268907563
+    },
+    {
+        "id": 704,
+        "question": "Find the value of f in the parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\704\\img_diagram.png",
+        "correctans": "14",
+        "length": 8,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 120,
+        "answer": "20.67",
+        "correct": 41,
+        "mistake": 74,
+        "error": 2,
+        "acc ": 0.3416666666666667,
+        "mis": 0.6166666666666667,
+        "err": 0.016666666666666666
+    },
+    {
+        "id": 1722,
+        "question": "Find m \\angle 3.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1722\\img_diagram.png",
+        "correctans": "26",
+        "length": 4,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 121,
+        "answer": "3",
+        "correct": 41,
+        "mistake": 75,
+        "error": 2,
+        "acc ": 0.33884297520661155,
+        "mis": 0.6198347107438017,
+        "err": 0.01652892561983471
+    },
+    {
+        "id": 211,
+        "question": "If \\frac { I J } { X J } = \\frac { H J } { Y J }, m \\angle W X J = 130, and m \\angle W Z G = 20, find m \\angle J I H.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\211\\img_diagram.png",
+        "correctans": "50",
+        "length": 41,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 122,
+        "answer": "160",
+        "correct": 41,
+        "mistake": 76,
+        "error": 2,
+        "acc ": 0.3360655737704918,
+        "mis": 0.6229508196721312,
+        "err": 0.01639344262295082
+    },
+    {
+        "id": 693,
+        "question": "Find y in the figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\693\\img_diagram.png",
+        "correctans": "90",
+        "length": 5,
+        "shape": [
+            "Line",
+            "Triangle",
+            "Parallelogram"
+        ],
+        "shapenum": 3,
+        "total": 123,
+        "answer": "132",
+        "correct": 41,
+        "mistake": 77,
+        "error": 2,
+        "acc ": 0.3333333333333333,
+        "mis": 0.6260162601626016,
+        "err": 0.016260162601626018
+    },
+    {
+        "id": 1532,
+        "question": "For the pair of similar figures, use the given areas to find the scale factor of the blue to the green figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1532\\img_diagram.png",
+        "correctans": "\\frac { 4 } { 5 }",
+        "length": 22,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 124,
+        "answer": "5",
+        "correct": 42,
+        "mistake": 77,
+        "error": 2,
+        "acc ": 0.3387096774193548,
+        "mis": 0.6209677419354839,
+        "err": 0.016129032258064516
+    },
+    {
+        "id": 2902,
+        "question": "Find the measure of J K.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2902\\img_diagram.png",
+        "correctans": "31",
+        "length": 6,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 125,
+        "answer": "31",
+        "correct": 43,
+        "mistake": 77,
+        "error": 2,
+        "acc ": 0.344,
+        "mis": 0.616,
+        "err": 0.016
+    },
+    {
+        "id": 2284,
+        "question": "Find y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2284\\img_diagram.png",
+        "correctans": "8 \\sqrt { 3 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 126,
+        "answer": "12",
+        "correct": 43,
+        "mistake": 78,
+        "error": 2,
+        "acc ": 0.3412698412698413,
+        "mis": 0.6190476190476191,
+        "err": 0.015873015873015872
+    },
+    {
+        "id": 2688,
+        "question": "Find the value of t in the parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2688\\img_diagram.png",
+        "correctans": "7",
+        "length": 8,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 127,
+        "answer": "8",
+        "correct": 43,
+        "mistake": 79,
+        "error": 2,
+        "acc ": 0.33858267716535434,
+        "mis": 0.6220472440944882,
+        "err": 0.015748031496062992
+    },
+    {
+        "id": 1386,
+        "question": "Polygon B C D E \\cong polygon R S T U. Find y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1386\\img_diagram.png",
+        "correctans": "42",
+        "length": 13,
+        "shape": [
+            "Trapezoid"
+        ],
+        "shapenum": 1,
+        "total": 128,
+        "answer": "42",
+        "correct": 44,
+        "mistake": 79,
+        "error": 2,
+        "acc ": 0.34375,
+        "mis": 0.6171875,
+        "err": 0.015625
+    },
+    {
+        "id": 2526,
+        "question": "Find the measure of \\angle 2 if A B \\perp B C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2526\\img_diagram.png",
+        "correctans": "68",
+        "length": 12,
+        "shape": [
+            "Line",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 129,
+        "answer": "2",
+        "correct": 44,
+        "mistake": 80,
+        "error": 2,
+        "acc ": 0.34108527131782945,
+        "mis": 0.6201550387596899,
+        "err": 0.015503875968992248
+    },
+    {
+        "id": 345,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\345\\img_diagram.png",
+        "correctans": "81.5",
+        "length": 2,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 130,
+        "answer": "17",
+        "correct": 44,
+        "mistake": 81,
+        "error": 2,
+        "acc ": 0.3384615384615385,
+        "mis": 0.6230769230769231,
+        "err": 0.015384615384615385
+    },
+    {
+        "id": 2734,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2734\\img_diagram.png",
+        "correctans": "120",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 131,
+        "answer": "60",
+        "correct": 44,
+        "mistake": 82,
+        "error": 2,
+        "acc ": 0.33587786259541985,
+        "mis": 0.6259541984732825,
+        "err": 0.015267175572519083
+    },
+    {
+        "id": 786,
+        "question": "Circle O has a radius of 10, A B = 10 and m \\overrightarrow A B = 60. Find m \\widehat O X.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\786\\img_diagram.png",
+        "correctans": "5 \\sqrt { 3 }",
+        "length": 23,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 132,
+        "answer": "120",
+        "correct": 44,
+        "mistake": 83,
+        "error": 2,
+        "acc ": 0.3333333333333333,
+        "mis": 0.6287878787878788,
+        "err": 0.015151515151515152
+    },
+    {
+        "id": 1097,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1097\\img_diagram.png",
+        "correctans": "4 \\sqrt { 13 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 133,
+        "answer": "5",
+        "correct": 44,
+        "mistake": 84,
+        "error": 2,
+        "acc ": 0.3308270676691729,
+        "mis": 0.631578947368421,
+        "err": 0.015037593984962405
+    },
+    {
+        "id": 1062,
+        "question": "If L K = 4, M P = 3, P Q = 6, K J = 2, R S = 6, and L P = 2, find Q R.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1062\\img_diagram.png",
+        "correctans": "3",
+        "length": 29,
+        "shape": [
+            "Line",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 134,
+        "answer": "6",
+        "correct": 44,
+        "mistake": 85,
+        "error": 2,
+        "acc ": 0.3283582089552239,
+        "mis": 0.6343283582089553,
+        "err": 0.014925373134328358
+    },
+    {
+        "id": 2520,
+        "question": "A B \\perp D C and G H \\perp F E. If \\triangle A C D \\sim \\triangle G E F, find A B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2520\\img_diagram.png",
+        "correctans": "2.2",
+        "length": 24,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 135,
+        "answer": "8.804",
+        "correct": 44,
+        "mistake": 86,
+        "error": 2,
+        "acc ": 0.32592592592592595,
+        "mis": 0.6370370370370371,
+        "err": 0.014814814814814815
+    },
+    {
+        "id": 72,
+        "question": "Find m \\angle 4.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\72\\img_diagram.png",
+        "correctans": "52",
+        "length": 4,
+        "shape": [
+            "Rectangle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 136,
+        "answer": "14",
+        "correct": 44,
+        "mistake": 87,
+        "error": 2,
+        "acc ": 0.3235294117647059,
+        "mis": 0.6397058823529411,
+        "err": 0.014705882352941176
+    },
+    {
+        "id": 788,
+        "question": "In \\odot F, G K = 14 and m \\widehat G H K = 142. Find J K.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\788\\img_diagram.png",
+        "correctans": "7",
+        "length": 18,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 137,
+        "answer": "8",
+        "correct": 44,
+        "mistake": 88,
+        "error": 2,
+        "acc ": 0.32116788321167883,
+        "mis": 0.6423357664233577,
+        "err": 0.014598540145985401
+    },
+    {
+        "id": 2534,
+        "question": "E B \\parallel D C. Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2534\\img_diagram.png",
+        "correctans": "9.5",
+        "length": 7,
+        "shape": [
+            "Line",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 138,
+        "answer": "14.5",
+        "correct": 44,
+        "mistake": 89,
+        "error": 2,
+        "acc ": 0.3188405797101449,
+        "mis": 0.644927536231884,
+        "err": 0.014492753623188406
+    },
+    {
+        "id": 2602,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2602\\img_diagram.png",
+        "correctans": "30",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 139,
+        "answer": "30",
+        "correct": 45,
+        "mistake": 89,
+        "error": 2,
+        "acc ": 0.3237410071942446,
+        "mis": 0.6402877697841727,
+        "err": 0.014388489208633094
+    },
+    {
+        "id": 637,
+        "question": "Find the length of C B in the isosceles triangle A B C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\637\\img_diagram.png",
+        "correctans": "7",
+        "length": 13,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 140,
+        "answer": "7",
+        "correct": 46,
+        "mistake": 89,
+        "error": 2,
+        "acc ": 0.32857142857142857,
+        "mis": 0.6357142857142857,
+        "err": 0.014285714285714285
+    },
+    {
+        "id": 680,
+        "question": "Find the measure of the altitude drawn to the hypotenuse.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\680\\img_diagram.png",
+        "correctans": "3 \\sqrt { 5 }",
+        "length": 10,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 142,
+        "answer": "9",
+        "correct": 46,
+        "mistake": 90,
+        "error": 2,
+        "acc ": 0.323943661971831,
+        "mis": 0.6338028169014085,
+        "err": 0.014084507042253521
+    },
+    {
+        "id": 1756,
+        "question": "Find A B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1756\\img_diagram.png",
+        "correctans": "3.6",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 143,
+        "answer": "2",
+        "correct": 46,
+        "mistake": 91,
+        "error": 2,
+        "acc ": 0.32167832167832167,
+        "mis": 0.6363636363636364,
+        "err": 0.013986013986013986
+    },
+    {
+        "id": 1251,
+        "question": "Find m \\angle C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1251\\img_diagram.png",
+        "correctans": "122",
+        "length": 4,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 144,
+        "answer": "58",
+        "correct": 46,
+        "mistake": 92,
+        "error": 2,
+        "acc ": 0.3194444444444444,
+        "mis": 0.6388888888888888,
+        "err": 0.013888888888888888
+    },
+    {
+        "id": 2648,
+        "question": "Find the value of x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2648\\img_diagram.png",
+        "correctans": "23",
+        "length": 5,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 145,
+        "answer": "113",
+        "correct": 46,
+        "mistake": 93,
+        "error": 2,
+        "acc ": 0.31724137931034485,
+        "mis": 0.6413793103448275,
+        "err": 0.013793103448275862
+    },
+    {
+        "id": 55,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\55\\img_diagram.png",
+        "correctans": "8",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 146,
+        "answer": "8",
+        "correct": 47,
+        "mistake": 93,
+        "error": 2,
+        "acc ": 0.3219178082191781,
+        "mis": 0.636986301369863,
+        "err": 0.0136986301369863
+    },
+    {
+        "id": 2328,
+        "question": "Find m \\widehat B C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2328\\img_diagram.png",
+        "correctans": "123",
+        "length": 5,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 147,
+        "answer": "45",
+        "correct": 47,
+        "mistake": 94,
+        "error": 2,
+        "acc ": 0.3197278911564626,
+        "mis": 0.6394557823129252,
+        "err": 0.013605442176870748
+    },
+    {
+        "id": 685,
+        "question": "Find m \\angle A C B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\685\\img_diagram.png",
+        "correctans": "136",
+        "length": 6,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 148,
+        "answer": "0",
+        "correct": 47,
+        "mistake": 94,
+        "error": 3,
+        "acc ": 0.31756756756756754,
+        "mis": 0.6351351351351351,
+        "err": 0.02027027027027027
+    },
+    {
+        "id": 1973,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1973\\img_diagram.png",
+        "correctans": "5",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 149,
+        "answer": "5",
+        "correct": 48,
+        "mistake": 94,
+        "error": 3,
+        "acc ": 0.3221476510067114,
+        "mis": 0.6308724832214765,
+        "err": 0.020134228187919462
+    },
+    {
+        "id": 1970,
+        "question": "If A B and J K are altitudes, \\triangle D A C \\sim \\triangle M J L, A B = 9, A D = 4 x - 8, J K = 21, and J M = 5 x + 3, find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1970\\img_diagram.png",
+        "correctans": "5",
+        "length": 42,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 150,
+        "answer": "5",
+        "correct": 49,
+        "mistake": 94,
+        "error": 3,
+        "acc ": 0.32666666666666666,
+        "mis": 0.6266666666666667,
+        "err": 0.02
+    },
+    {
+        "id": 947,
+        "question": "m \\widehat J H = 114. Find m \\angle 2.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\947\\img_diagram.png",
+        "correctans": "57",
+        "length": 10,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 151,
+        "answer": "57",
+        "correct": 50,
+        "mistake": 94,
+        "error": 3,
+        "acc ": 0.33112582781456956,
+        "mis": 0.6225165562913907,
+        "err": 0.019867549668874173
+    },
+    {
+        "id": 2031,
+        "question": "Find x. Assume that segments that appear to be tangent are tangent.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\2031\\img_diagram.png",
+        "correctans": "9",
+        "length": 12,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 152,
+        "answer": "11.5",
+        "correct": 50,
+        "mistake": 95,
+        "error": 3,
+        "acc ": 0.32894736842105265,
+        "mis": 0.625,
+        "err": 0.019736842105263157
+    },
+    {
+        "id": 2914,
+        "question": "Find the area of the parallelogram. Round to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2914\\img_diagram.png",
+        "correctans": "528",
+        "length": 13,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 153,
+        "answer": "528",
+        "correct": 51,
+        "mistake": 95,
+        "error": 3,
+        "acc ": 0.3333333333333333,
+        "mis": 0.6209150326797386,
+        "err": 0.0196078431372549
+    },
+    {
+        "id": 4,
+        "question": "Find y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\4\\img_diagram.png",
+        "correctans": "21",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 154,
+        "answer": "10",
+        "correct": 51,
+        "mistake": 96,
+        "error": 3,
+        "acc ": 0.33116883116883117,
+        "mis": 0.6233766233766234,
+        "err": 0.01948051948051948
+    },
+    {
+        "id": 1661,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1661\\img_diagram.png",
+        "correctans": "4",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 155,
+        "answer": "9",
+        "correct": 51,
+        "mistake": 97,
+        "error": 3,
+        "acc ": 0.32903225806451614,
+        "mis": 0.6258064516129033,
+        "err": 0.01935483870967742
+    },
+    {
+        "id": 2286,
+        "question": "Find D E.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2286\\img_diagram.png",
+        "correctans": "4",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 156,
+        "answer": "6",
+        "correct": 51,
+        "mistake": 98,
+        "error": 3,
+        "acc ": 0.3269230769230769,
+        "mis": 0.6282051282051282,
+        "err": 0.019230769230769232
+    },
+    {
+        "id": 1434,
+        "question": "In \\odot G, m \\angle A G B = 30 and C G \\perp G D. Find m \\widehat B C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1434\\img_diagram.png",
+        "correctans": "60",
+        "length": 21,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 157,
+        "answer": "210",
+        "correct": 51,
+        "mistake": 99,
+        "error": 3,
+        "acc ": 0.3248407643312102,
+        "mis": 0.6305732484076433,
+        "err": 0.01910828025477707
+    },
+    {
+        "id": 2233,
+        "question": "The diameters of \\odot A, \\odot B, and \\odot C are 10 inches, 20 inches, and 14 inches, respectively. Find X B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2233\\img_diagram.png",
+        "correctans": "5",
+        "length": 22,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 158,
+        "answer": "10",
+        "correct": 51,
+        "mistake": 100,
+        "error": 3,
+        "acc ": 0.3227848101265823,
+        "mis": 0.6329113924050633,
+        "err": 0.0189873417721519
+    },
+    {
+        "id": 2535,
+        "question": "Refer to the triangle shown below. Find y to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2535\\img_diagram.png",
+        "correctans": "2 \\sqrt { 41 }",
+        "length": 12,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 159,
+        "answer": "2",
+        "correct": 51,
+        "mistake": 101,
+        "error": 3,
+        "acc ": 0.32075471698113206,
+        "mis": 0.6352201257861635,
+        "err": 0.018867924528301886
+    },
+    {
+        "id": 66,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\66\\img_diagram.png",
+        "correctans": "18",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 160,
+        "answer": "18",
+        "correct": 52,
+        "mistake": 101,
+        "error": 3,
+        "acc ": 0.325,
+        "mis": 0.63125,
+        "err": 0.01875
+    },
+    {
+        "id": 1170,
+        "question": "Find X Y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1170\\img_diagram.png",
+        "correctans": "7",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 161,
+        "answer": "7",
+        "correct": 53,
+        "mistake": 101,
+        "error": 3,
+        "acc ": 0.32919254658385094,
+        "mis": 0.6273291925465838,
+        "err": 0.018633540372670808
+    },
+    {
+        "id": 1960,
+        "question": "Find m \\widehat P M.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1960\\img_diagram.png",
+        "correctans": "144",
+        "length": 5,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 162,
+        "answer": "144",
+        "correct": 54,
+        "mistake": 101,
+        "error": 3,
+        "acc ": 0.3333333333333333,
+        "mis": 0.6234567901234568,
+        "err": 0.018518518518518517
+    },
+    {
+        "id": 2167,
+        "question": "If A B = 8, K L = 10, and J B = 13, find J L.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2167\\img_diagram.png",
+        "correctans": "16.25",
+        "length": 17,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 163,
+        "answer": "13",
+        "correct": 54,
+        "mistake": 102,
+        "error": 3,
+        "acc ": 0.3312883435582822,
+        "mis": 0.6257668711656442,
+        "err": 0.018404907975460124
+    },
+    {
+        "id": 2193,
+        "question": "Find the perimeter of the parallelogram. Round to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2193\\img_diagram.png",
+        "correctans": "96",
+        "length": 13,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 164,
+        "answer": "96",
+        "correct": 55,
+        "mistake": 102,
+        "error": 3,
+        "acc ": 0.3353658536585366,
+        "mis": 0.6219512195121951,
+        "err": 0.018292682926829267
+    },
+    {
+        "id": 158,
+        "question": "Find m \\angle Y.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\158\\img_diagram.png",
+        "correctans": "72",
+        "length": 4,
+        "shape": [
+            "Other"
+        ],
+        "shapenum": 1,
+        "total": 165,
+        "answer": "90",
+        "correct": 55,
+        "mistake": 103,
+        "error": 3,
+        "acc ": 0.3333333333333333,
+        "mis": 0.6242424242424243,
+        "err": 0.01818181818181818
+    },
+    {
+        "id": 1320,
+        "question": "Find x so that G J \\parallel F K. H J = x - 5, J K = 15, F G = 18, H G = x - 4.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1320\\img_diagram.png",
+        "correctans": "10",
+        "length": 29,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 166,
+        "answer": "14.35",
+        "correct": 55,
+        "mistake": 104,
+        "error": 3,
+        "acc ": 0.3313253012048193,
+        "mis": 0.6265060240963856,
+        "err": 0.018072289156626505
+    },
+    {
+        "id": 267,
+        "question": "Quadrilateral A B C D is a rhombus. If m \\angle D P C = 3 x - 15, find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\267\\img_diagram.png",
+        "correctans": "35",
+        "length": 21,
+        "shape": [
+            "Rhombus"
+        ],
+        "shapenum": 1,
+        "total": 167,
+        "answer": "35",
+        "correct": 56,
+        "mistake": 104,
+        "error": 3,
+        "acc ": 0.33532934131736525,
+        "mis": 0.6227544910179641,
+        "err": 0.017964071856287425
+    },
+    {
+        "id": 1921,
+        "question": "In \\odot D, D E \\cong E C, m C F = 60, and D E \\perp E C. Find m \\angle 4.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1921\\img_diagram.png",
+        "correctans": "45",
+        "length": 23,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 168,
+        "answer": "15",
+        "correct": 56,
+        "mistake": 105,
+        "error": 3,
+        "acc ": 0.3333333333333333,
+        "mis": 0.625,
+        "err": 0.017857142857142856
+    },
+    {
+        "id": 548,
+        "question": "Find the measure of \\angle 1.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\548\\img_diagram.png",
+        "correctans": "85",
+        "length": 6,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 169,
+        "answer": "25",
+        "correct": 56,
+        "mistake": 106,
+        "error": 3,
+        "acc ": 0.33136094674556216,
+        "mis": 0.6272189349112426,
+        "err": 0.01775147928994083
+    },
+    {
+        "id": 1692,
+        "question": "Express the ratio of \\sin L as a decimal to the nearest hundredth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1692\\img_diagram.png",
+        "correctans": "0.38",
+        "length": 13,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 170,
+        "answer": "0.38",
+        "correct": 57,
+        "mistake": 106,
+        "error": 3,
+        "acc ": 0.3352941176470588,
+        "mis": 0.6235294117647059,
+        "err": 0.01764705882352941
+    },
+    {
+        "id": 1010,
+        "question": "Find D B.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1010\\img_diagram.png",
+        "correctans": "5",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 171,
+        "answer": "14",
+        "correct": 57,
+        "mistake": 107,
+        "error": 3,
+        "acc ": 0.3333333333333333,
+        "mis": 0.6257309941520468,
+        "err": 0.017543859649122806
+    },
+    {
+        "id": 769,
+        "question": "Q S is a diameter of \\odot V. Find m \\widehat P Q R.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\769\\img_diagram.png",
+        "correctans": "123",
+        "length": 14,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 172,
+        "answer": "72",
+        "correct": 57,
+        "mistake": 108,
+        "error": 3,
+        "acc ": 0.3313953488372093,
+        "mis": 0.627906976744186,
+        "err": 0.01744186046511628
+    },
+    {
+        "id": 294,
+        "question": "In \\odot F, find m \\widehat A E D.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\294\\img_diagram.png",
+        "correctans": "153",
+        "length": 9,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 173,
+        "answer": "31.5",
+        "correct": 57,
+        "mistake": 109,
+        "error": 3,
+        "acc ": 0.32947976878612717,
+        "mis": 0.630057803468208,
+        "err": 0.017341040462427744
+    },
+    {
+        "id": 1704,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1704\\img_diagram.png",
+        "correctans": "3",
+        "length": 2,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 174,
+        "answer": "9",
+        "correct": 57,
+        "mistake": 110,
+        "error": 3,
+        "acc ": 0.3275862068965517,
+        "mis": 0.632183908045977,
+        "err": 0.017241379310344827
+    },
+    {
+        "id": 1513,
+        "question": "Find the area of the figure. Round to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1513\\img_diagram.png",
+        "correctans": "3108",
+        "length": 13,
+        "shape": [
+            "Rhombus"
+        ],
+        "shapenum": 1,
+        "total": 175,
+        "answer": "47.5",
+        "correct": 57,
+        "mistake": 111,
+        "error": 3,
+        "acc ": 0.32571428571428573,
+        "mis": 0.6342857142857142,
+        "err": 0.017142857142857144
+    },
+    {
+        "id": 673,
+        "question": "Suppose C E = 5.2 inches. Find the diameter of the circle.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\673\\img_diagram.png",
+        "correctans": "10.4",
+        "length": 12,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 176,
+        "answer": "10.4",
+        "correct": 58,
+        "mistake": 111,
+        "error": 3,
+        "acc ": 0.32954545454545453,
+        "mis": 0.6306818181818182,
+        "err": 0.017045454545454544
+    },
+    {
+        "id": 280,
+        "question": "Find E C.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\280\\img_diagram.png",
+        "correctans": "4.8",
+        "length": 3,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 177,
+        "answer": "1",
+        "correct": 58,
+        "mistake": 112,
+        "error": 3,
+        "acc ": 0.327683615819209,
+        "mis": 0.632768361581921,
+        "err": 0.01694915254237288
+    },
+    {
+        "id": 1252,
+        "question": "Find x. Round the side measure to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1252\\img_diagram.png",
+        "correctans": "34.8",
+        "length": 10,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 178,
+        "answer": "56",
+        "correct": 58,
+        "mistake": 113,
+        "error": 3,
+        "acc ": 0.3258426966292135,
+        "mis": 0.6348314606741573,
+        "err": 0.016853932584269662
+    },
+    {
+        "id": 2700,
+        "question": "Find the area of the figure. Round to the nearest tenth if necessary.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2700\\img_diagram.png",
+        "correctans": "129.9",
+        "length": 13,
+        "shape": [
+            "Square"
+        ],
+        "shapenum": 1,
+        "total": 179,
+        "answer": "112.5",
+        "correct": 58,
+        "mistake": 114,
+        "error": 3,
+        "acc ": 0.3240223463687151,
+        "mis": 0.6368715083798883,
+        "err": 0.01675977653631285
+    },
+    {
+        "id": 1387,
+        "question": "Find the area of the composite figure. Round to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1387\\img_diagram.png",
+        "correctans": "357.0",
+        "length": 12,
+        "shape": [
+            "Circle",
+            "Rectangle"
+        ],
+        "shapenum": 2,
+        "total": 180,
+        "answer": "437.1",
+        "correct": 58,
+        "mistake": 115,
+        "error": 3,
+        "acc ": 0.32222222222222224,
+        "mis": 0.6388888888888888,
+        "err": 0.016666666666666666
+    },
+    {
+        "id": 1052,
+        "question": "If Q R S T is a kite, find m \\angle R S T.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1052\\img_diagram.png",
+        "correctans": "78",
+        "length": 14,
+        "shape": [
+            "Other"
+        ],
+        "shapenum": 1,
+        "total": 181,
+        "answer": "44",
+        "correct": 58,
+        "mistake": 116,
+        "error": 3,
+        "acc ": 0.32044198895027626,
+        "mis": 0.6408839779005525,
+        "err": 0.016574585635359115
+    },
+    {
+        "id": 2931,
+        "question": "Find w in the given parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\test\\test\\2931\\img_diagram.png",
+        "correctans": "5",
+        "length": 6,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 182,
+        "answer": "5",
+        "correct": 59,
+        "mistake": 116,
+        "error": 3,
+        "acc ": 0.3241758241758242,
+        "mis": 0.6373626373626373,
+        "err": 0.016483516483516484
+    },
+    {
+        "id": 1371,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1371\\img_diagram.png",
+        "correctans": "20 \\sqrt { 2 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 183,
+        "answer": "28.28",
+        "correct": 59,
+        "mistake": 117,
+        "error": 3,
+        "acc ": 0.3224043715846995,
+        "mis": 0.639344262295082,
+        "err": 0.01639344262295082
+    },
+    {
+        "id": 2381,
+        "question": "Circles G, J, and K all intersect at L. If G H = 10. Find F G.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2381\\img_diagram.png",
+        "correctans": "10",
+        "length": 17,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 184,
+        "answer": "5",
+        "correct": 59,
+        "mistake": 118,
+        "error": 3,
+        "acc ": 0.32065217391304346,
+        "mis": 0.6413043478260869,
+        "err": 0.016304347826086956
+    },
+    {
+        "id": 457,
+        "question": "Find z.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\457\\img_diagram.png",
+        "correctans": "12 \\sqrt { 3 }",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 185,
+        "answer": "2",
+        "correct": 59,
+        "mistake": 119,
+        "error": 3,
+        "acc ": 0.31891891891891894,
+        "mis": 0.6432432432432432,
+        "err": 0.016216216216216217
+    },
+    {
+        "id": 905,
+        "question": "Triangle J K L is circumscribed about \\odot R. Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\905\\img_diagram.png",
+        "correctans": "4",
+        "length": 11,
+        "shape": [
+            "Circle",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 186,
+        "answer": "1.67",
+        "correct": 59,
+        "mistake": 120,
+        "error": 3,
+        "acc ": 0.3172043010752688,
+        "mis": 0.6451612903225806,
+        "err": 0.016129032258064516
+    },
+    {
+        "id": 650,
+        "question": "Solve for x in the figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\650\\img_diagram.png",
+        "correctans": "4",
+        "length": 6,
+        "shape": [
+            "Circle"
+        ],
+        "shapenum": 1,
+        "total": 187,
+        "answer": "4",
+        "correct": 60,
+        "mistake": 120,
+        "error": 3,
+        "acc ": 0.32085561497326204,
+        "mis": 0.6417112299465241,
+        "err": 0.016042780748663103
+    },
+    {
+        "id": 1189,
+        "question": "Find m \\angle D.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1189\\img_diagram.png",
+        "correctans": "60",
+        "length": 4,
+        "shape": [
+            "Trapezoid"
+        ],
+        "shapenum": 1,
+        "total": 188,
+        "answer": "180",
+        "correct": 60,
+        "mistake": 121,
+        "error": 3,
+        "acc ": 0.3191489361702128,
+        "mis": 0.6436170212765957,
+        "err": 0.015957446808510637
+    },
+    {
+        "id": 1636,
+        "question": "Find y so that the quadrilateral is a parallelogram.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1636\\img_diagram.png",
+        "correctans": "5",
+        "length": 9,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 189,
+        "answer": "4",
+        "correct": 60,
+        "mistake": 122,
+        "error": 3,
+        "acc ": 0.31746031746031744,
+        "mis": 0.6455026455026455,
+        "err": 0.015873015873015872
+    },
+    {
+        "id": 421,
+        "question": "Use parallelogram W X Y Z to find W Z.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\421\\img_diagram.png",
+        "correctans": "24",
+        "length": 10,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 190,
+        "answer": "41.3",
+        "correct": 60,
+        "mistake": 123,
+        "error": 3,
+        "acc ": 0.3157894736842105,
+        "mis": 0.6473684210526316,
+        "err": 0.015789473684210527
+    },
+    {
+        "id": 741,
+        "question": "The area of \\parallelogram A B C D is 150 square meters. The area of \\parallelogram F G H J is 54 square meters. If \\parallelogram A B C D \\sim \\parallelogram F G H J, find the scale factor of \\parallelogram F G H J to \\parallelogram A B C D.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\741\\img_diagram.png",
+        "correctans": "\\frac { 3 } { 5 }",
+        "length": 52,
+        "shape": [
+            "Parallelogram"
+        ],
+        "shapenum": 1,
+        "total": 191,
+        "answer": "0.6",
+        "correct": 60,
+        "mistake": 124,
+        "error": 3,
+        "acc ": 0.31413612565445026,
+        "mis": 0.6492146596858639,
+        "err": 0.015706806282722512
+    },
+    {
+        "id": 261,
+        "question": "Find y in the figure.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\261\\img_diagram.png",
+        "correctans": "5",
+        "length": 5,
+        "shape": [
+            "Line",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 192,
+        "answer": "2",
+        "correct": 60,
+        "mistake": 125,
+        "error": 3,
+        "acc ": 0.3125,
+        "mis": 0.6510416666666666,
+        "err": 0.015625
+    },
+    {
+        "id": 1875,
+        "question": "Find m \\angle 2.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1875\\img_diagram.png",
+        "correctans": "34",
+        "length": 4,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 193,
+        "answer": "66",
+        "correct": 60,
+        "mistake": 126,
+        "error": 3,
+        "acc ": 0.31088082901554404,
+        "mis": 0.6528497409326425,
+        "err": 0.015544041450777202
+    },
+    {
+        "id": 60,
+        "question": "Find z.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\60\\img_diagram.png",
+        "correctans": "6",
+        "length": 2,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 194,
+        "answer": "4",
+        "correct": 60,
+        "mistake": 127,
+        "error": 3,
+        "acc ": 0.30927835051546393,
+        "mis": 0.654639175257732,
+        "err": 0.015463917525773196
+    },
+    {
+        "id": 1014,
+        "question": "Find x. Round to the nearest tenth.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1014\\img_diagram.png",
+        "correctans": "8.0",
+        "length": 7,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 195,
+        "answer": "8.0",
+        "correct": 61,
+        "mistake": 127,
+        "error": 3,
+        "acc ": 0.3128205128205128,
+        "mis": 0.6512820512820513,
+        "err": 0.015384615384615385
+    },
+    {
+        "id": 2119,
+        "question": "Find x. Round to the nearest tenth if necessary. Assume that segments that appear to be tangent are tangent.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2119\\img_diagram.png",
+        "correctans": "3.2",
+        "length": 19,
+        "shape": [
+            "Line",
+            "Circle"
+        ],
+        "shapenum": 2,
+        "total": 196,
+        "answer": "3.6",
+        "correct": 61,
+        "mistake": 128,
+        "error": 3,
+        "acc ": 0.3112244897959184,
+        "mis": 0.6530612244897959,
+        "err": 0.015306122448979591
+    },
+    {
+        "id": 2174,
+        "question": "Find m \\angle 4.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\val\\val\\2174\\img_diagram.png",
+        "correctans": "56",
+        "length": 4,
+        "shape": [
+            "Triangle"
+        ],
+        "shapenum": 1,
+        "total": 197,
+        "answer": "113",
+        "correct": 61,
+        "mistake": 129,
+        "error": 3,
+        "acc ": 0.3096446700507614,
+        "mis": 0.6548223350253807,
+        "err": 0.015228426395939087
+    },
+    {
+        "id": 74,
+        "question": "Find x.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\74\\img_diagram.png",
+        "correctans": "45",
+        "length": 2,
+        "shape": [
+            "Square",
+            "Triangle"
+        ],
+        "shapenum": 2,
+        "total": 198,
+        "answer": "0",
+        "correct": 61,
+        "mistake": 129,
+        "error": 4,
+        "acc ": 0.30808080808080807,
+        "mis": 0.6515151515151515,
+        "err": 0.020202020202020204
+    },
+    {
+        "id": 1366,
+        "question": "Find m \\angle K.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1366\\img_diagram.png",
+        "correctans": "117",
+        "length": 4,
+        "shape": [
+            "Other"
+        ],
+        "shapenum": 1,
+        "total": 199,
+        "answer": "59",
+        "correct": 61,
+        "mistake": 130,
+        "error": 4,
+        "acc ": 0.3065326633165829,
+        "mis": 0.6532663316582915,
+        "err": 0.020100502512562814
+    },
+    {
+        "id": 1424,
+        "question": "In the figure, m \\angle 1 = 123. Find the measure of \\angle 6.",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\Geometry3K\\train\\train\\1424\\img_diagram.png",
+        "correctans": "57",
+        "length": 14,
+        "shape": [
+            "Line"
+        ],
+        "shapenum": 1,
+        "total": 200,
+        "answer": "123",
+        "correct": 61,
+        "mistake": 131,
+        "error": 4,
+        "acc ": 0.305,
+        "mis": 0.655,
+        "err": 0.02
+    }
+]

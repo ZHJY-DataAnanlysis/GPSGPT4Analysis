@@ -1,0 +1,3870 @@
+[
+    {
+        "id": 9797,
+        "question": "如图,点A、B、C是⊙O上的点,∠BOC=60°,则∠BAC等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9797.png",
+        "correctans": "30°",
+        "length": 34,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 1,
+        "answer": "30",
+        "correct": 1,
+        "mistake": 0,
+        "error": 0,
+        "acc ": 1.0,
+        "mis": 0.0,
+        "err": 0.0
+    },
+    {
+        "id": 3989,
+        "question": "如图,已知AB是⊙O的直径,⊙O的切线CD与AB的延长线交于点D,点C为切点,联接AC,若∠A=26°,则∠D的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3989.png",
+        "correctans": "38°",
+        "length": 61,
+        "know": [
+            "等腰三角形",
+            "直角三角形",
+            "圆周角",
+            "切线"
+        ],
+        "knownum": 4,
+        "total": 2,
+        "answer": "64",
+        "correct": 1,
+        "mistake": 1,
+        "error": 0,
+        "acc ": 0.5,
+        "mis": 0.5,
+        "err": 0.0
+    },
+    {
+        "id": 4686,
+        "question": "如图,四条平行直线l_{1},l_{2},l_{3},l_{4}被直线l_{5},l_{6}所截,AB:BC:CD=1:2:3,若FG=3,则线段EF和线段GH的长度之和是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4686.png",
+        "correctans": "6",
+        "length": 88,
+        "know": [
+            "平行线",
+            "平行线分线段成比例"
+        ],
+        "knownum": 2,
+        "total": 3,
+        "answer": "6",
+        "correct": 2,
+        "mistake": 1,
+        "error": 0,
+        "acc ": 0.6666666666666666,
+        "mis": 0.3333333333333333,
+        "err": 0.0
+    },
+    {
+        "id": 4906,
+        "question": "如图,C、M是线段AB上的两点,且点M是线段AC的中点,若AB=8cm,BC=2cm,则AM的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4906.png",
+        "correctans": "3cm",
+        "length": 51,
+        "know": [
+            "距离"
+        ],
+        "knownum": 1,
+        "total": 4,
+        "answer": "3",
+        "correct": 3,
+        "mistake": 1,
+        "error": 0,
+        "acc ": 0.75,
+        "mis": 0.25,
+        "err": 0.0
+    },
+    {
+        "id": 5344,
+        "question": "如图,将一根绳子用线段AB表示,现从C处将绳子剪断,剪断后的两段绳子中较长的一段为60cm,若AC=\\frac{3}{4}CB,则这条绳子的原长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5344.png",
+        "correctans": "105cm",
+        "length": 75,
+        "know": [
+            "距离"
+        ],
+        "knownum": 1,
+        "total": 6,
+        "answer": "105",
+        "correct": 4,
+        "mistake": 1,
+        "error": 0,
+        "acc ": 0.6666666666666666,
+        "mis": 0.16666666666666666,
+        "err": 0.0
+    },
+    {
+        "id": 7404,
+        "question": "如图,等边△ABC的边长为3,P为BC上一点,且BP=1,D为AC上一点,若∠APD=60°,则CD的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7404.png",
+        "correctans": "\\frac{2}{3}",
+        "length": 55,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 7,
+        "answer": "0",
+        "correct": 4,
+        "mistake": 1,
+        "error": 1,
+        "acc ": 0.5714285714285714,
+        "mis": 0.14285714285714285,
+        "err": 0.14285714285714285
+    },
+    {
+        "id": 8473,
+        "question": "如图,量角器外沿上有A、B两点,它们的读数分别是70°和40°,则∠1的度数()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8473.png",
+        "correctans": "15°",
+        "length": 40,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 8,
+        "answer": "30",
+        "correct": 4,
+        "mistake": 2,
+        "error": 1,
+        "acc ": 0.5,
+        "mis": 0.25,
+        "err": 0.125
+    },
+    {
+        "id": 2025,
+        "question": "如图,圆锥的底面半径为3cm,母线长为5cm,则它的侧面积为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2025.png",
+        "correctans": "15πcm^{2}",
+        "length": 32,
+        "know": [
+            "扇形面积",
+            "圆锥的计算"
+        ],
+        "knownum": 2,
+        "total": 9,
+        "answer": "15",
+        "correct": 4,
+        "mistake": 3,
+        "error": 1,
+        "acc ": 0.4444444444444444,
+        "mis": 0.3333333333333333,
+        "err": 0.1111111111111111
+    },
+    {
+        "id": 2540,
+        "question": "如图,△ABC与△DEF是位似图形,位似比为2:3,已知AB=4,则DE的长等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2540.png",
+        "correctans": "6",
+        "length": 42,
+        "know": [
+            "位似"
+        ],
+        "knownum": 1,
+        "total": 10,
+        "answer": "6",
+        "correct": 5,
+        "mistake": 3,
+        "error": 1,
+        "acc ": 0.5,
+        "mis": 0.3,
+        "err": 0.1
+    },
+    {
+        "id": 8963,
+        "question": "如图,PA是⊙O的切线,切点为A,PO=2,∠APO=30°,则PA的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8963.png",
+        "correctans": "√{3}",
+        "length": 39,
+        "know": [
+            "切线"
+        ],
+        "knownum": 1,
+        "total": 11,
+        "answer": "3",
+        "correct": 6,
+        "mistake": 3,
+        "error": 1,
+        "acc ": 0.5454545454545454,
+        "mis": 0.2727272727272727,
+        "err": 0.09090909090909091
+    },
+    {
+        "id": 565,
+        "question": "已知直线a∥b,一块含30°角的直角三角尺如图放置．若∠1=25°,则∠2等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\565.png",
+        "correctans": "55°",
+        "length": 41,
+        "know": [
+            "平行线"
+        ],
+        "knownum": 1,
+        "total": 12,
+        "answer": "65",
+        "correct": 6,
+        "mistake": 4,
+        "error": 1,
+        "acc ": 0.5,
+        "mis": 0.3333333333333333,
+        "err": 0.08333333333333333
+    },
+    {
+        "id": 8767,
+        "question": "如图OA=OB=OC,且∠ACB=40°,则∠AOB的度数大小为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8767.png",
+        "correctans": "80°",
+        "length": 34,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 13,
+        "answer": "80",
+        "correct": 7,
+        "mistake": 4,
+        "error": 1,
+        "acc ": 0.5384615384615384,
+        "mis": 0.3076923076923077,
+        "err": 0.07692307692307693
+    },
+    {
+        "id": 2811,
+        "question": "如图,点O为△ABC内一点,OA=OB=OC,且∠ABO=40°,则∠ACB的大小是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2811.png",
+        "correctans": "50°",
+        "length": 44,
+        "know": [
+            "等腰三角形",
+            "垂直平分线",
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 4,
+        "total": 14,
+        "answer": "20",
+        "correct": 7,
+        "mistake": 5,
+        "error": 1,
+        "acc ": 0.5,
+        "mis": 0.35714285714285715,
+        "err": 0.07142857142857142
+    },
+    {
+        "id": 7877,
+        "question": "如图,公园里,小颖沿着斜坡AB从A点爬上到B点后,顺着斜坡从B点滑下到C点．已知A、C两点在同一水平线上,∠A=45°,∠C=30°,AB=4米,则BC的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7877.png",
+        "correctans": "4√{2}米",
+        "length": 81,
+        "know": [
+            "直角三角形",
+            "坡角"
+        ],
+        "knownum": 2,
+        "total": 15,
+        "answer": "3",
+        "correct": 7,
+        "mistake": 6,
+        "error": 1,
+        "acc ": 0.4666666666666667,
+        "mis": 0.4,
+        "err": 0.06666666666666667
+    },
+    {
+        "id": 1694,
+        "question": "如图,AB为⊙O的直径,C,D为⊙O上两点,若∠BCD=40°,则∠ABD的大小为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1694.png",
+        "correctans": "50°",
+        "length": 43,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 16,
+        "answer": "40",
+        "correct": 7,
+        "mistake": 7,
+        "error": 1,
+        "acc ": 0.4375,
+        "mis": 0.4375,
+        "err": 0.0625
+    },
+    {
+        "id": 2316,
+        "question": "如图,A、D是电线杆AB上的两个瓷壶,AC和DE分别表示太阳光线,若某一时刻线段AD在地面上的影长CE=1m,BD在地面上的影长BE=3m,瓷壶D到地面的距离DB=20m,则电线杆AB的高为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2316.png",
+        "correctans": "\\frac{80}{3}m",
+        "length": 97,
+        "know": [
+            "相似三角形",
+            "距离"
+        ],
+        "knownum": 2,
+        "total": 17,
+        "answer": "26.67",
+        "correct": 7,
+        "mistake": 8,
+        "error": 1,
+        "acc ": 0.4117647058823529,
+        "mis": 0.47058823529411764,
+        "err": 0.058823529411764705
+    },
+    {
+        "id": 7936,
+        "question": "如图,四边形ABCD是矩形,点E和点F是矩形ABCD外两点,AE⊥CF于点H,AD=3,DC=4,DE=\\frac{5}{2},∠EDF=90°,则DF长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7936.png",
+        "correctans": "\\frac{10}{3}",
+        "length": 80,
+        "know": [
+            "相似三角形",
+            "直角三角形",
+            "矩形"
+        ],
+        "knownum": 3,
+        "total": 18,
+        "answer": "3",
+        "correct": 8,
+        "mistake": 8,
+        "error": 1,
+        "acc ": 0.4444444444444444,
+        "mis": 0.4444444444444444,
+        "err": 0.05555555555555555
+    },
+    {
+        "id": 7842,
+        "question": "如图,一小型水库堤坝的横断面为直角梯形,坝顶BC宽6m,坝高14m,斜坡CD的坡度i=1:2,则坝底AD的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7842.png",
+        "correctans": "34m",
+        "length": 57,
+        "know": [
+            "直角三角形",
+            "坡角"
+        ],
+        "knownum": 2,
+        "total": 19,
+        "answer": "34",
+        "correct": 9,
+        "mistake": 8,
+        "error": 1,
+        "acc ": 0.47368421052631576,
+        "mis": 0.42105263157894735,
+        "err": 0.05263157894736842
+    },
+    {
+        "id": 703,
+        "question": "如图,点B,O,D在同一直线上,若∠1=15°,∠2=105°,则∠AOC的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\703.png",
+        "correctans": "90",
+        "length": 43,
+        "know": [
+            "邻补角"
+        ],
+        "knownum": 1,
+        "total": 20,
+        "answer": "60",
+        "correct": 9,
+        "mistake": 9,
+        "error": 1,
+        "acc ": 0.45,
+        "mis": 0.45,
+        "err": 0.05
+    },
+    {
+        "id": 1144,
+        "question": "如图工程上常用钢珠来测量零件上小圆孔的宽口,假设钢珠的直径是10mm,测得钢珠顶端离零件表面的距离为8mm,如图所示．则这个小圆孔的宽口AB的长度是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1144.png",
+        "correctans": "8mm",
+        "length": 76,
+        "know": [
+            "直角三角形",
+            "距离",
+            "垂径定理"
+        ],
+        "knownum": 3,
+        "total": 21,
+        "answer": "9.16",
+        "correct": 9,
+        "mistake": 10,
+        "error": 1,
+        "acc ": 0.42857142857142855,
+        "mis": 0.47619047619047616,
+        "err": 0.047619047619047616
+    },
+    {
+        "id": 1722,
+        "question": "如图,点C在⊙O上,若∠ACB=35°,则∠AOB等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1722.png",
+        "correctans": "70°",
+        "length": 29,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 22,
+        "answer": "70",
+        "correct": 10,
+        "mistake": 10,
+        "error": 1,
+        "acc ": 0.45454545454545453,
+        "mis": 0.45454545454545453,
+        "err": 0.045454545454545456
+    },
+    {
+        "id": 5517,
+        "question": "如图,河坝横断面的迎水坡AB的坡比为3:4,BC=6m,则坡面AB的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5517.png",
+        "correctans": "10m",
+        "length": 38,
+        "know": [
+            "直角三角形",
+            "坡角"
+        ],
+        "knownum": 2,
+        "total": 23,
+        "answer": "7.5",
+        "correct": 10,
+        "mistake": 11,
+        "error": 1,
+        "acc ": 0.43478260869565216,
+        "mis": 0.4782608695652174,
+        "err": 0.043478260869565216
+    },
+    {
+        "id": 9767,
+        "question": "如图,AB为⊙O的直径,点C、D、E在圆上,AB⊥DE,∠ABE=50°,则∠ACD的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9767.png",
+        "correctans": "50°",
+        "length": 48,
+        "know": [
+            "圆心角",
+            "圆周角",
+            "垂径定理"
+        ],
+        "knownum": 3,
+        "total": 24,
+        "answer": "40",
+        "correct": 10,
+        "mistake": 12,
+        "error": 1,
+        "acc ": 0.4166666666666667,
+        "mis": 0.5,
+        "err": 0.041666666666666664
+    },
+    {
+        "id": 4872,
+        "question": "如图,已知直线l_{1},l_{2},l_{3}分别交直线l4于点A,B,C,交直线l5于点D,E,F,且l_{1}∥l_{2}∥l_{3},若AB=4,AC=6,DF=9,则DE=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4872.png",
+        "correctans": "6",
+        "length": 93,
+        "know": [
+            "平行线",
+            "平行线分线段成比例"
+        ],
+        "knownum": 2,
+        "total": 25,
+        "answer": "6",
+        "correct": 11,
+        "mistake": 12,
+        "error": 1,
+        "acc ": 0.44,
+        "mis": 0.48,
+        "err": 0.04
+    },
+    {
+        "id": 6785,
+        "question": "如图,已知一商场自动扶梯的长l为13米,高度h为5米,自动扶梯与地面所成的夹角为θ,则cosθ的值是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\6785.png",
+        "correctans": "\\frac{12}{13}",
+        "length": 52,
+        "know": [
+            "勾股定理",
+            "直角三角形",
+            "坡角",
+            "三角函数"
+        ],
+        "knownum": 4,
+        "total": 26,
+        "answer": "13",
+        "correct": 12,
+        "mistake": 12,
+        "error": 1,
+        "acc ": 0.46153846153846156,
+        "mis": 0.46153846153846156,
+        "err": 0.038461538461538464
+    },
+    {
+        "id": 2601,
+        "question": "如图,在Rt△ABC中,∠C=90°,AC=4,AB=5,则\\cosA的值是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2601.png",
+        "correctans": "\\frac{4}{5}",
+        "length": 40,
+        "know": [
+            "三角函数"
+        ],
+        "knownum": 1,
+        "total": 27,
+        "answer": "5",
+        "correct": 13,
+        "mistake": 12,
+        "error": 1,
+        "acc ": 0.48148148148148145,
+        "mis": 0.4444444444444444,
+        "err": 0.037037037037037035
+    },
+    {
+        "id": 3586,
+        "question": "如图,圆内接四边形ABCD中,圆心角∠1=100°,则圆周角∠ABC等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3586.png",
+        "correctans": "130°",
+        "length": 38,
+        "know": [
+            "圆内接四边形",
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 3,
+        "total": 29,
+        "answer": "50",
+        "correct": 13,
+        "mistake": 13,
+        "error": 1,
+        "acc ": 0.4482758620689655,
+        "mis": 0.4482758620689655,
+        "err": 0.034482758620689655
+    },
+    {
+        "id": 3286,
+        "question": "如图,AD是⊙O的直径,弦BC⊥AD,若∠AOB=50°,则∠ADC=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3286.png",
+        "correctans": "25°",
+        "length": 37,
+        "know": [
+            "圆周角",
+            "垂径定理"
+        ],
+        "knownum": 2,
+        "total": 31,
+        "answer": "90",
+        "correct": 13,
+        "mistake": 14,
+        "error": 1,
+        "acc ": 0.41935483870967744,
+        "mis": 0.45161290322580644,
+        "err": 0.03225806451612903
+    },
+    {
+        "id": 7494,
+        "question": "如图,在△ABC中,DE为△ABC的中位线,△ADE的面积是3,则四边形BCED的面积为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7494.png",
+        "correctans": "9",
+        "length": 46,
+        "know": [
+            "相似三角形",
+            "三角形中位线"
+        ],
+        "knownum": 2,
+        "total": 32,
+        "answer": "3",
+        "correct": 13,
+        "mistake": 15,
+        "error": 1,
+        "acc ": 0.40625,
+        "mis": 0.46875,
+        "err": 0.03125
+    },
+    {
+        "id": 9412,
+        "question": "如图,等腰△ABC中,AB=AC,▱AFDE的顶点D、E、F分别在边BC、AC、AB上,如果▱AFDE的周长为30,那么等腰△ABC的腰长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9412.png",
+        "correctans": "15",
+        "length": 72,
+        "know": [
+            "等腰三角形",
+            "平行四边形"
+        ],
+        "knownum": 2,
+        "total": 33,
+        "answer": "15",
+        "correct": 14,
+        "mistake": 15,
+        "error": 1,
+        "acc ": 0.42424242424242425,
+        "mis": 0.45454545454545453,
+        "err": 0.030303030303030304
+    },
+    {
+        "id": 1867,
+        "question": "如图,AB是半圆O的直径,点C为半圆O上一点,D是⁀{AC}的中点,∠DAC=40°,则∠CAB的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1867.png",
+        "correctans": "10°",
+        "length": 54,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 34,
+        "answer": "80",
+        "correct": 14,
+        "mistake": 16,
+        "error": 1,
+        "acc ": 0.4117647058823529,
+        "mis": 0.47058823529411764,
+        "err": 0.029411764705882353
+    },
+    {
+        "id": 318,
+        "question": "如图,⊙O中,弦AB与CD交于点M,∠A=45°,∠AMD=75°,则∠B的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\318.png",
+        "correctans": "30°",
+        "length": 43,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 35,
+        "answer": "75",
+        "correct": 14,
+        "mistake": 17,
+        "error": 1,
+        "acc ": 0.4,
+        "mis": 0.4857142857142857,
+        "err": 0.02857142857142857
+    },
+    {
+        "id": 1860,
+        "question": "如图,AB是圆O的直径,CD是圆O的弦,AB、CD的延长线交于点E,已知AB=2DE,∠E=16°,则∠ABC的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1860.png",
+        "correctans": "24°",
+        "length": 61,
+        "know": [
+            "等腰三角形",
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 3,
+        "total": 36,
+        "answer": "53",
+        "correct": 14,
+        "mistake": 18,
+        "error": 1,
+        "acc ": 0.3888888888888889,
+        "mis": 0.5,
+        "err": 0.027777777777777776
+    },
+    {
+        "id": 878,
+        "question": "如图,在△ABC中,∠C=90°,∠BAC=70°,将△ABC绕点A顺时针旋转70°,B,C旋转后的对应点分别是B′和C′,连接BB′,则∠B′BC′的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\878.png",
+        "correctans": "55°",
+        "length": 81,
+        "know": [
+            "旋转"
+        ],
+        "knownum": 1,
+        "total": 37,
+        "answer": "140",
+        "correct": 14,
+        "mistake": 19,
+        "error": 1,
+        "acc ": 0.3783783783783784,
+        "mis": 0.5135135135135135,
+        "err": 0.02702702702702703
+    },
+    {
+        "id": 8700,
+        "question": "如图,点A,B,C,D在同一个圆上,且∠ABD=\\frac{1}{3}∠ABC,∠ACD=20°,则∠DAC等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8700.png",
+        "correctans": "40°",
+        "length": 58,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 38,
+        "answer": "106.67",
+        "correct": 14,
+        "mistake": 20,
+        "error": 1,
+        "acc ": 0.3684210526315789,
+        "mis": 0.5263157894736842,
+        "err": 0.02631578947368421
+    },
+    {
+        "id": 7611,
+        "question": "如图,在△ABC中,D、E为边AB、AC的中点,已知△ADE的面积为3,那么△ABC的面积是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7611.png",
+        "correctans": "12",
+        "length": 48,
+        "know": [
+            "相似三角形",
+            "三角形中位线"
+        ],
+        "knownum": 2,
+        "total": 39,
+        "answer": "12",
+        "correct": 15,
+        "mistake": 20,
+        "error": 1,
+        "acc ": 0.38461538461538464,
+        "mis": 0.5128205128205128,
+        "err": 0.02564102564102564
+    },
+    {
+        "id": 9755,
+        "question": "如图,在⊙O中,⁀{AB}=⁀{AC},∠BAC=50°,则∠AEC的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9755.png",
+        "correctans": "65°",
+        "length": 40,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 40,
+        "answer": "90",
+        "correct": 15,
+        "mistake": 21,
+        "error": 1,
+        "acc ": 0.375,
+        "mis": 0.525,
+        "err": 0.025
+    },
+    {
+        "id": 7878,
+        "question": "某地区准备修建一座高AB=6m的过街天桥,已知天桥的坡面AC与地面BC的夹角∠ACB的余弦值为\\frac{4}{5},则坡面AC的长度为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7878.png",
+        "correctans": "10",
+        "length": 70,
+        "know": [
+            "直角三角形",
+            "坡角"
+        ],
+        "knownum": 2,
+        "total": 41,
+        "answer": "10",
+        "correct": 16,
+        "mistake": 21,
+        "error": 1,
+        "acc ": 0.3902439024390244,
+        "mis": 0.5121951219512195,
+        "err": 0.024390243902439025
+    },
+    {
+        "id": 30,
+        "question": "如图,直线a∥b,点B在直线b上,且AB⊥BC,∠2=65°,则∠1的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\30.png",
+        "correctans": "25°",
+        "length": 40,
+        "know": [
+            "平行线"
+        ],
+        "knownum": 1,
+        "total": 42,
+        "answer": "90",
+        "correct": 16,
+        "mistake": 22,
+        "error": 1,
+        "acc ": 0.38095238095238093,
+        "mis": 0.5238095238095238,
+        "err": 0.023809523809523808
+    },
+    {
+        "id": 1315,
+        "question": "如图,点A,B,C在⊙O上,∠AOB=72°,则∠ACB等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1315.png",
+        "correctans": "36°",
+        "length": 32,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 43,
+        "answer": "36",
+        "correct": 17,
+        "mistake": 22,
+        "error": 1,
+        "acc ": 0.3953488372093023,
+        "mis": 0.5116279069767442,
+        "err": 0.023255813953488372
+    },
+    {
+        "id": 4406,
+        "question": "如图,AB是⊙O的直径,CD切于点D,AB的延长线交CD于点C,若∠ACD=40°,则∠A=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4406.png",
+        "correctans": "25°",
+        "length": 48,
+        "know": [
+            "直角三角形",
+            "切线"
+        ],
+        "knownum": 2,
+        "total": 44,
+        "answer": "90",
+        "correct": 17,
+        "mistake": 23,
+        "error": 1,
+        "acc ": 0.38636363636363635,
+        "mis": 0.5227272727272727,
+        "err": 0.022727272727272728
+    },
+    {
+        "id": 7428,
+        "question": "如图,在△ABC中,D,E分别是AB和AC上的点,且DE∥BC,\\frac{AD}{BD}=\\frac{3}{2},DE=6,则BC的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7428.png",
+        "correctans": "10",
+        "length": 71,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 45,
+        "answer": "12",
+        "correct": 17,
+        "mistake": 24,
+        "error": 1,
+        "acc ": 0.37777777777777777,
+        "mis": 0.5333333333333333,
+        "err": 0.022222222222222223
+    },
+    {
+        "id": 2053,
+        "question": "如图,一个圆锥的侧面展开图是半径为10的半圆,则它的底面半径是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2053.png",
+        "correctans": "5",
+        "length": 33,
+        "know": [
+            "圆锥的计算"
+        ],
+        "knownum": 1,
+        "total": 46,
+        "answer": "3.18",
+        "correct": 17,
+        "mistake": 25,
+        "error": 1,
+        "acc ": 0.3695652173913043,
+        "mis": 0.5434782608695652,
+        "err": 0.021739130434782608
+    },
+    {
+        "id": 9676,
+        "question": "如图,AB是⊙O的直径,弦CD与AB相交,且∠ABC=32°,则∠CDB的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9676.png",
+        "correctans": "58°",
+        "length": 42,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 47,
+        "answer": "90",
+        "correct": 17,
+        "mistake": 26,
+        "error": 1,
+        "acc ": 0.3617021276595745,
+        "mis": 0.5531914893617021,
+        "err": 0.02127659574468085
+    },
+    {
+        "id": 7617,
+        "question": "如图,平行四边形ABCD中,EF∥BC,AE:EB=2:3,EF=4,则AD的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7617.png",
+        "correctans": "10",
+        "length": 43,
+        "know": [
+            "相似三角形",
+            "平行四边形"
+        ],
+        "knownum": 2,
+        "total": 48,
+        "answer": "10",
+        "correct": 18,
+        "mistake": 26,
+        "error": 1,
+        "acc ": 0.375,
+        "mis": 0.5416666666666666,
+        "err": 0.020833333333333332
+    },
+    {
+        "id": 4152,
+        "question": "如图,在⊙O中,AD,CD是弦,连接OC并延长,交过点A的切线于点B,若∠ADC=30°,则∠ABO的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4152.png",
+        "correctans": "30°",
+        "length": 56,
+        "know": [
+            "直角三角形",
+            "圆周角",
+            "切线"
+        ],
+        "knownum": 3,
+        "total": 49,
+        "answer": "30",
+        "correct": 19,
+        "mistake": 26,
+        "error": 1,
+        "acc ": 0.3877551020408163,
+        "mis": 0.5306122448979592,
+        "err": 0.02040816326530612
+    },
+    {
+        "id": 7794,
+        "question": "如图,在△ABC中,DE∥BC,AD=2,DB=4,DE=3,则BC的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7794.png",
+        "correctans": "9",
+        "length": 39,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 50,
+        "answer": "9",
+        "correct": 20,
+        "mistake": 26,
+        "error": 1,
+        "acc ": 0.4,
+        "mis": 0.52,
+        "err": 0.02
+    },
+    {
+        "id": 3041,
+        "question": "如图,AB是⊙O的直径,点C,D在⊙O上,若∠DCB=110°,则∠AED的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3041.png",
+        "correctans": "20°",
+        "length": 43,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 51,
+        "answer": "35",
+        "correct": 20,
+        "mistake": 27,
+        "error": 1,
+        "acc ": 0.39215686274509803,
+        "mis": 0.5294117647058824,
+        "err": 0.0196078431372549
+    },
+    {
+        "id": 3819,
+        "question": "如图,⊙O的半径OC=10cm,直线AB⊥OC,垂足为H,且交⊙O于A、B两点,AB=12cm,则沿OC直线AB向下平移与⊙O相切,则平移距离为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3819.png",
+        "correctans": "2cm",
+        "length": 74,
+        "know": [
+            "距离",
+            "平移"
+        ],
+        "knownum": 2,
+        "total": 52,
+        "answer": "2",
+        "correct": 21,
+        "mistake": 27,
+        "error": 1,
+        "acc ": 0.40384615384615385,
+        "mis": 0.5192307692307693,
+        "err": 0.019230769230769232
+    },
+    {
+        "id": 8385,
+        "question": "如图,正三角形的边长为6,点P为BC边上一点,且PC=4,D为AC上一点,∠APD=60°,则CD的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8385.png",
+        "correctans": "\\frac{4}{3}",
+        "length": 54,
+        "know": [
+            "相似三角形",
+            "等边三角形"
+        ],
+        "knownum": 2,
+        "total": 53,
+        "answer": "3",
+        "correct": 22,
+        "mistake": 27,
+        "error": 1,
+        "acc ": 0.41509433962264153,
+        "mis": 0.5094339622641509,
+        "err": 0.018867924528301886
+    },
+    {
+        "id": 3967,
+        "question": "如图所示,AB是⊙O的直径,PA切⊙O于点A,线段PO交⊙O于点C,连结BC,若∠P=36°,则∠B等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3967.png",
+        "correctans": "27°",
+        "length": 54,
+        "know": [
+            "切线",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 54,
+        "answer": "72",
+        "correct": 22,
+        "mistake": 28,
+        "error": 1,
+        "acc ": 0.4074074074074074,
+        "mis": 0.5185185185185185,
+        "err": 0.018518518518518517
+    },
+    {
+        "id": 2089,
+        "question": "如图,已知扇形AOB的半径为3cm,圆心角的度数为120°,若将此扇形围成一个圆锥,则围成的圆锥的侧面积为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2089.png",
+        "correctans": "3πcm^{2}",
+        "length": 55,
+        "know": [
+            "圆心角",
+            "圆锥的计算"
+        ],
+        "knownum": 2,
+        "total": 55,
+        "answer": "3",
+        "correct": 22,
+        "mistake": 29,
+        "error": 1,
+        "acc ": 0.4,
+        "mis": 0.5272727272727272,
+        "err": 0.01818181818181818
+    },
+    {
+        "id": 5652,
+        "question": "如图,四边形ABCD是轴对称图形,直线AC是它的对称轴,若∠BAD=150°,∠B=40°,则∠BCD的大小为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5652.png",
+        "correctans": "130°",
+        "length": 57,
+        "know": [
+            "多边形",
+            "对称"
+        ],
+        "knownum": 2,
+        "total": 56,
+        "answer": "130",
+        "correct": 23,
+        "mistake": 29,
+        "error": 1,
+        "acc ": 0.4107142857142857,
+        "mis": 0.5178571428571429,
+        "err": 0.017857142857142856
+    },
+    {
+        "id": 5956,
+        "question": "已知△ABC的周长为1,连接其三边中点构成第二个三角形,再连接第二个三角形的中点构成第三个三角形,则第三个三角形的周长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5956.png",
+        "correctans": "\\frac{1}{4}",
+        "length": 62,
+        "know": [
+            "三角形中位线"
+        ],
+        "knownum": 1,
+        "total": 58,
+        "answer": "4",
+        "correct": 24,
+        "mistake": 29,
+        "error": 1,
+        "acc ": 0.41379310344827586,
+        "mis": 0.5,
+        "err": 0.017241379310344827
+    },
+    {
+        "id": 2232,
+        "question": "如图,小兰用彩纸制作了一个圆锥形的生日帽．若底面半径为5cm,母线长为10cm,不考虑接缝的情况,则这个圆锥的侧面积是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2232.png",
+        "correctans": "50πcm^{2}",
+        "length": 61,
+        "know": [
+            "圆锥的计算"
+        ],
+        "knownum": 1,
+        "total": 59,
+        "answer": "2",
+        "correct": 25,
+        "mistake": 29,
+        "error": 1,
+        "acc ": 0.423728813559322,
+        "mis": 0.4915254237288136,
+        "err": 0.01694915254237288
+    },
+    {
+        "id": 1265,
+        "question": "如图,∠1=120°,∠E=80°,则∠A的大小是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1265.png",
+        "correctans": "40°",
+        "length": 27,
+        "know": [
+            "三角形的外角"
+        ],
+        "knownum": 1,
+        "total": 60,
+        "answer": "180",
+        "correct": 25,
+        "mistake": 30,
+        "error": 1,
+        "acc ": 0.4166666666666667,
+        "mis": 0.5,
+        "err": 0.016666666666666666
+    },
+    {
+        "id": 5075,
+        "question": "如图,一辆超市购物车放置在水平地面上,其侧面四边形ABCD与地面某条水平线在同一平面内,且AB∥l,若∠A=93°,∠D=111°,则直线CD与l所夹锐角的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5075.png",
+        "correctans": "24°",
+        "length": 83,
+        "know": [
+            "多边形",
+            "平行线"
+        ],
+        "knownum": 2,
+        "total": 61,
+        "answer": "87",
+        "correct": 25,
+        "mistake": 31,
+        "error": 1,
+        "acc ": 0.4098360655737705,
+        "mis": 0.5081967213114754,
+        "err": 0.01639344262295082
+    },
+    {
+        "id": 3102,
+        "question": "如图,A、D是⊙O上的两个点,BC是直径,若∠D=35°,则∠OAC等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3102.png",
+        "correctans": "55°",
+        "length": 38,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 62,
+        "answer": "160",
+        "correct": 25,
+        "mistake": 32,
+        "error": 1,
+        "acc ": 0.4032258064516129,
+        "mis": 0.5161290322580645,
+        "err": 0.016129032258064516
+    },
+    {
+        "id": 9602,
+        "question": "如图,已知,∠BAC=35°,⁀{CD}=80°,那么∠BOD的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9602.png",
+        "correctans": "150°",
+        "length": 37,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 63,
+        "answer": "150",
+        "correct": 26,
+        "mistake": 32,
+        "error": 1,
+        "acc ": 0.4126984126984127,
+        "mis": 0.5079365079365079,
+        "err": 0.015873015873015872
+    },
+    {
+        "id": 8500,
+        "question": "如图,⊙O是△ABC的外接圆,已知∠B=62°,则∠CAO的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8500.png",
+        "correctans": "28°",
+        "length": 35,
+        "know": [
+            "等腰三角形",
+            "外接圆",
+            "圆周角"
+        ],
+        "knownum": 3,
+        "total": 64,
+        "answer": "124",
+        "correct": 26,
+        "mistake": 33,
+        "error": 1,
+        "acc ": 0.40625,
+        "mis": 0.515625,
+        "err": 0.015625
+    },
+    {
+        "id": 8671,
+        "question": "如图,在△ABC中,AB是⊙O的直径,∠B=60°,∠C=70°,则∠BOD的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8671.png",
+        "correctans": "100°",
+        "length": 44,
+        "know": [
+            "圆心角",
+            "三角形内角和",
+            "圆周角"
+        ],
+        "knownum": 3,
+        "total": 65,
+        "answer": "120",
+        "correct": 26,
+        "mistake": 34,
+        "error": 1,
+        "acc ": 0.4,
+        "mis": 0.5230769230769231,
+        "err": 0.015384615384615385
+    },
+    {
+        "id": 7637,
+        "question": "如图,在平行四边形ABCD中,E为AD的中点,△DEF的周长为1,则△BCF的周长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7637.png",
+        "correctans": "2",
+        "length": 44,
+        "know": [
+            "相似三角形",
+            "平行四边形"
+        ],
+        "knownum": 2,
+        "total": 66,
+        "answer": "1",
+        "correct": 26,
+        "mistake": 35,
+        "error": 1,
+        "acc ": 0.3939393939393939,
+        "mis": 0.5303030303030303,
+        "err": 0.015151515151515152
+    },
+    {
+        "id": 5359,
+        "question": "如图,点C在线段AB上,点D是AC的中点,如果CD=3,AB=10,那么BC长度为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5359.png",
+        "correctans": "4",
+        "length": 43,
+        "know": [
+            "距离"
+        ],
+        "knownum": 1,
+        "total": 67,
+        "answer": "4",
+        "correct": 27,
+        "mistake": 35,
+        "error": 1,
+        "acc ": 0.40298507462686567,
+        "mis": 0.5223880597014925,
+        "err": 0.014925373134328358
+    },
+    {
+        "id": 9112,
+        "question": "如图,矩形ABCD中,对角线AC,BD交于点D,过点D作AC的平行线与BC的延长线交于点E,已知∠AOD=130°,则∠DEC的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9112.png",
+        "correctans": "25°",
+        "length": 69,
+        "know": [
+            "等腰三角形",
+            "平行线",
+            "平行四边形",
+            "矩形"
+        ],
+        "knownum": 4,
+        "total": 68,
+        "answer": "50",
+        "correct": 27,
+        "mistake": 36,
+        "error": 1,
+        "acc ": 0.39705882352941174,
+        "mis": 0.5294117647058824,
+        "err": 0.014705882352941176
+    },
+    {
+        "id": 948,
+        "question": "如图,圆心角∠AOB=60∘,则圆周角∠ACB的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\948.png",
+        "correctans": "30°",
+        "length": 29,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 69,
+        "answer": "30",
+        "correct": 28,
+        "mistake": 36,
+        "error": 1,
+        "acc ": 0.4057971014492754,
+        "mis": 0.5217391304347826,
+        "err": 0.014492753623188406
+    },
+    {
+        "id": 2303,
+        "question": "如图是小莹设计用手电来测量某古城墙高度的示意图．在点P处放一水平的平面镜,光线从点A出发经平面镜反射后,刚好射到古城墙CD的顶端C处．已知AB⊥BD,CD⊥BD．且测得AB=1.4米,BP=2.1米,PD=12米．那么该古城墙CD的高度是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2303.png",
+        "correctans": "8米",
+        "length": 121,
+        "know": [
+            "相似三角形",
+            "直角三角形"
+        ],
+        "knownum": 2,
+        "total": 70,
+        "answer": "8",
+        "correct": 29,
+        "mistake": 36,
+        "error": 1,
+        "acc ": 0.4142857142857143,
+        "mis": 0.5142857142857142,
+        "err": 0.014285714285714285
+    },
+    {
+        "id": 2588,
+        "question": "如图,在△ABC中,∠C=90°,BC=5,AB=13,则sinB是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2588.png",
+        "correctans": "\\frac{12}{13}",
+        "length": 36,
+        "know": [
+            "勾股定理",
+            "三角函数"
+        ],
+        "knownum": 2,
+        "total": 71,
+        "answer": "13",
+        "correct": 30,
+        "mistake": 36,
+        "error": 1,
+        "acc ": 0.4225352112676056,
+        "mis": 0.5070422535211268,
+        "err": 0.014084507042253521
+    },
+    {
+        "id": 8023,
+        "question": "如图所示,在平行四边形ABCD中,CE是∠DCB的平分线,且交AB于E,DB与CE相交于O,已知AB=6,BC=4,则\\frac{OB}{DB}等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8023.png",
+        "correctans": "\\frac{2}{5}",
+        "length": 76,
+        "know": [
+            "相似三角形",
+            "平行四边形"
+        ],
+        "knownum": 2,
+        "total": 72,
+        "answer": "2",
+        "correct": 30,
+        "mistake": 37,
+        "error": 1,
+        "acc ": 0.4166666666666667,
+        "mis": 0.5138888888888888,
+        "err": 0.013888888888888888
+    },
+    {
+        "id": 332,
+        "question": "如图所示,直线AB、CD被直线EF所截,若AB∥CD,∠1=100°,则∠2的大小是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\332.png",
+        "correctans": "80°",
+        "length": 44,
+        "know": [
+            "同位角",
+            "平行线"
+        ],
+        "knownum": 2,
+        "total": 73,
+        "answer": "100",
+        "correct": 30,
+        "mistake": 38,
+        "error": 1,
+        "acc ": 0.410958904109589,
+        "mis": 0.5205479452054794,
+        "err": 0.0136986301369863
+    },
+    {
+        "id": 1886,
+        "question": "如图,将直角三角板60°角的顶点放在圆心O上,斜边和一直角边分别与⊙O相交于A、B两点,P是优弧AB上任意一点(与A、B不重合),则∠APB的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1886.png",
+        "correctans": "30°",
+        "length": 76,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 74,
+        "answer": "30",
+        "correct": 31,
+        "mistake": 38,
+        "error": 1,
+        "acc ": 0.4189189189189189,
+        "mis": 0.5135135135135135,
+        "err": 0.013513513513513514
+    },
+    {
+        "id": 4909,
+        "question": "如图,点O在直线DB上,已知∠1=15°,∠AOC=90°,则∠2的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4909.png",
+        "correctans": "105°",
+        "length": 39,
+        "know": [
+            "直角三角形"
+        ],
+        "knownum": 1,
+        "total": 75,
+        "answer": "75",
+        "correct": 31,
+        "mistake": 39,
+        "error": 1,
+        "acc ": 0.41333333333333333,
+        "mis": 0.52,
+        "err": 0.013333333333333334
+    },
+    {
+        "id": 7081,
+        "question": "如图,Rt△ABC中,∠ACB=90°,CD⊥AB,D为垂足,若AC=8,AB=10,则sin∠ACD的值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7081.png",
+        "correctans": "\\frac{4}{5}",
+        "length": 56,
+        "know": [
+            "三角函数"
+        ],
+        "knownum": 1,
+        "total": 76,
+        "answer": "2",
+        "correct": 31,
+        "mistake": 40,
+        "error": 1,
+        "acc ": 0.40789473684210525,
+        "mis": 0.5263157894736842,
+        "err": 0.013157894736842105
+    },
+    {
+        "id": 1472,
+        "question": "如图所示,将含有30°角的三角板(∠A=30°)的直角顶点放在相互平行的两条直线其中一条上,若∠1=38°,则∠2的度数()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1472.png",
+        "correctans": "22°",
+        "length": 62,
+        "know": [
+            "三角形内角和",
+            "三角形的外角",
+            "平行线"
+        ],
+        "knownum": 3,
+        "total": 77,
+        "answer": "52",
+        "correct": 31,
+        "mistake": 41,
+        "error": 1,
+        "acc ": 0.4025974025974026,
+        "mis": 0.5324675324675324,
+        "err": 0.012987012987012988
+    },
+    {
+        "id": 9155,
+        "question": "如图,菱形ABCD的周长是16,∠A=60°,则对角线BD的长度为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9155.png",
+        "correctans": "4",
+        "length": 35,
+        "know": [
+            "等边三角形",
+            "菱形"
+        ],
+        "knownum": 2,
+        "total": 78,
+        "answer": "4",
+        "correct": 32,
+        "mistake": 41,
+        "error": 1,
+        "acc ": 0.41025641025641024,
+        "mis": 0.5256410256410257,
+        "err": 0.01282051282051282
+    },
+    {
+        "id": 377,
+        "question": "如图,AB∥CD,CP交AB于O,AO=PO,若∠C=50°,则∠A的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\377.png",
+        "correctans": "25°",
+        "length": 40,
+        "know": [
+            "等腰三角形",
+            "平行线"
+        ],
+        "knownum": 2,
+        "total": 79,
+        "answer": "50",
+        "correct": 32,
+        "mistake": 42,
+        "error": 1,
+        "acc ": 0.4050632911392405,
+        "mis": 0.5316455696202531,
+        "err": 0.012658227848101266
+    },
+    {
+        "id": 6822,
+        "question": "如图,在某监测点B处望见一艘正在作业的渔船在南偏西15°方向的A处,若渔船沿北偏西75°方向以40海里/小时的速度航行,航行半小时后到达C处,在C处观测到B在C的北偏东60°方向上,则B、C之间的距离为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\6822.png",
+        "correctans": "20√{2}海里",
+        "length": 103,
+        "know": [
+            "方向角",
+            "直角三角形",
+            "距离"
+        ],
+        "knownum": 3,
+        "total": 81,
+        "answer": "3",
+        "correct": 32,
+        "mistake": 43,
+        "error": 1,
+        "acc ": 0.3950617283950617,
+        "mis": 0.5308641975308642,
+        "err": 0.012345679012345678
+    },
+    {
+        "id": 506,
+        "question": "如图,AB∥EF∥CD,∠ABC=46°,∠CEF=154°,则∠BCE等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\506.png",
+        "correctans": "20°",
+        "length": 40,
+        "know": [
+            "对顶角",
+            "内错角",
+            "邻补角"
+        ],
+        "knownum": 3,
+        "total": 82,
+        "answer": "26",
+        "correct": 32,
+        "mistake": 44,
+        "error": 1,
+        "acc ": 0.3902439024390244,
+        "mis": 0.5365853658536586,
+        "err": 0.012195121951219513
+    },
+    {
+        "id": 1014,
+        "question": "如图,AB为圆O的直径,点C为圆上一点,若∠OCA=25°,则∠BOC=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1014.png",
+        "correctans": "50°",
+        "length": 38,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 83,
+        "answer": "65",
+        "correct": 32,
+        "mistake": 45,
+        "error": 1,
+        "acc ": 0.3855421686746988,
+        "mis": 0.5421686746987951,
+        "err": 0.012048192771084338
+    },
+    {
+        "id": 4208,
+        "question": "如果,过圆O外一点P引圆O的切线PA,PB,切点为A,B,C为圆上一点,若∠APB=50°,则∠ACB=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4208.png",
+        "correctans": "65°",
+        "length": 54,
+        "know": [
+            "直角三角形",
+            "圆周角",
+            "切线"
+        ],
+        "knownum": 3,
+        "total": 84,
+        "answer": "25",
+        "correct": 32,
+        "mistake": 46,
+        "error": 1,
+        "acc ": 0.38095238095238093,
+        "mis": 0.5476190476190477,
+        "err": 0.011904761904761904
+    },
+    {
+        "id": 4707,
+        "question": "如图,已知AD为△ABC的角平分线,DE∥AB交AC于点E,\\frac{AE}{EC}=\\frac{3}{5},那么等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4707.png",
+        "correctans": "\\frac{3}{5}",
+        "length": 62,
+        "know": [
+            "平行线",
+            "角平分线",
+            "平行线分线段成比例"
+        ],
+        "knownum": 3,
+        "total": 85,
+        "answer": "25",
+        "correct": 32,
+        "mistake": 47,
+        "error": 1,
+        "acc ": 0.3764705882352941,
+        "mis": 0.5529411764705883,
+        "err": 0.011764705882352941
+    },
+    {
+        "id": 9471,
+        "question": "如图所示,在▱ABCD中,AB=10cm,AB边上的高DH=4cm,BC=6cm,求BC边上的高DF的长()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9471.png",
+        "correctans": "\\frac{20}{3}cm",
+        "length": 54,
+        "know": [
+            "平行四边形"
+        ],
+        "knownum": 1,
+        "total": 86,
+        "answer": "2",
+        "correct": 32,
+        "mistake": 48,
+        "error": 1,
+        "acc ": 0.37209302325581395,
+        "mis": 0.5581395348837209,
+        "err": 0.011627906976744186
+    },
+    {
+        "id": 3780,
+        "question": "如图,△ABC中,∠A=70°,O为△ABC的外心,则∠BOC的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3780.png",
+        "correctans": "140°",
+        "length": 37,
+        "know": [
+            "三角形的外接圆与外心",
+            "外接圆",
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 4,
+        "total": 87,
+        "answer": "140",
+        "correct": 33,
+        "mistake": 48,
+        "error": 1,
+        "acc ": 0.3793103448275862,
+        "mis": 0.5517241379310345,
+        "err": 0.011494252873563218
+    },
+    {
+        "id": 4140,
+        "question": "一个定点与圆上各点之间距离的最小值称为这个点与这个圆之间的距离,如图,矩形ABCD中,AB=28cm,BC=24cm,⊙K与矩形的边AB、BC、CD分别相切于点E、F、G,则点A与⊙K的距离为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4140.png",
+        "correctans": "8cm",
+        "length": 98,
+        "know": [
+            "勾股定理",
+            "切线",
+            "矩形",
+            "距离"
+        ],
+        "knownum": 4,
+        "total": 88,
+        "answer": "3",
+        "correct": 33,
+        "mistake": 49,
+        "error": 1,
+        "acc ": 0.375,
+        "mis": 0.5568181818181818,
+        "err": 0.011363636363636364
+    },
+    {
+        "id": 2629,
+        "question": "如图,边长为1的小正方形构成的网格中,⊙O半径为1,圆心O在格点上,则tan∠AED=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2629.png",
+        "correctans": "\\frac{1}{2}",
+        "length": 45,
+        "know": [
+            "正方形",
+            "圆周角",
+            "三角函数"
+        ],
+        "knownum": 3,
+        "total": 90,
+        "answer": "2",
+        "correct": 34,
+        "mistake": 49,
+        "error": 1,
+        "acc ": 0.37777777777777777,
+        "mis": 0.5444444444444444,
+        "err": 0.011111111111111112
+    },
+    {
+        "id": 8769,
+        "question": "如图,圆O的半径为6,点A、B、C在圆O上,且∠ACB=45°,则弦AB的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8769.png",
+        "correctans": "6√{2}",
+        "length": 41,
+        "know": [
+            "直角三角形",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 91,
+        "answer": "2",
+        "correct": 35,
+        "mistake": 49,
+        "error": 1,
+        "acc ": 0.38461538461538464,
+        "mis": 0.5384615384615384,
+        "err": 0.01098901098901099
+    },
+    {
+        "id": 9892,
+        "question": "如图,在以O为圆心的两个同心圆中,大圆的弦AB是小圆的切线,点P为切点,已知AB=8,大圆半径为5,则小圆半径为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9892.png",
+        "correctans": "3",
+        "length": 58,
+        "know": [
+            "勾股定理",
+            "切线",
+            "垂径定理"
+        ],
+        "knownum": 3,
+        "total": 92,
+        "answer": "3",
+        "correct": 36,
+        "mistake": 49,
+        "error": 1,
+        "acc ": 0.391304347826087,
+        "mis": 0.532608695652174,
+        "err": 0.010869565217391304
+    },
+    {
+        "id": 9346,
+        "question": "如图,▱ABCD的周长为36,对角线AC、BD相交于点O．点E是CD的中点,BD=14,则△DOE的周长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9346.png",
+        "correctans": "16",
+        "length": 55,
+        "know": [
+            "平行四边形",
+            "三角形中位线"
+        ],
+        "knownum": 2,
+        "total": 93,
+        "answer": "6",
+        "correct": 36,
+        "mistake": 50,
+        "error": 1,
+        "acc ": 0.3870967741935484,
+        "mis": 0.5376344086021505,
+        "err": 0.010752688172043012
+    },
+    {
+        "id": 5950,
+        "question": "如图,在Rt△ABC中,∠C=90°,AB=10,AC=6,D、E、F分别是△ABC三边的中点,则△DEF的周长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5950.png",
+        "correctans": "12",
+        "length": 59,
+        "know": [
+            "三角形中位线"
+        ],
+        "knownum": 1,
+        "total": 94,
+        "answer": "12",
+        "correct": 37,
+        "mistake": 50,
+        "error": 1,
+        "acc ": 0.39361702127659576,
+        "mis": 0.5319148936170213,
+        "err": 0.010638297872340425
+    },
+    {
+        "id": 1589,
+        "question": "如图,PA、PB分别与⊙O相切于点A、B,若∠P=50°,则∠C的值是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1589.png",
+        "correctans": "65°",
+        "length": 37,
+        "know": [
+            "圆心角",
+            "切线",
+            "圆周角",
+            "直角三角形"
+        ],
+        "knownum": 4,
+        "total": 95,
+        "answer": "115",
+        "correct": 37,
+        "mistake": 51,
+        "error": 1,
+        "acc ": 0.3894736842105263,
+        "mis": 0.5368421052631579,
+        "err": 0.010526315789473684
+    },
+    {
+        "id": 9260,
+        "question": "如图,▱ABCD的周长为10cm,AE平分∠BAD,若CE=1cm,则AB的长度是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9260.png",
+        "correctans": "2cm",
+        "length": 43,
+        "know": [
+            "等腰三角形",
+            "平行线",
+            "平行四边形"
+        ],
+        "knownum": 3,
+        "total": 96,
+        "answer": "1",
+        "correct": 37,
+        "mistake": 52,
+        "error": 1,
+        "acc ": 0.3854166666666667,
+        "mis": 0.5416666666666666,
+        "err": 0.010416666666666666
+    },
+    {
+        "id": 5238,
+        "question": "已知:如图,点C是线段AB的中点,点D是线段BC的中点,AB=20cm,那么线段AD等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5238.png",
+        "correctans": "15cm",
+        "length": 46,
+        "know": [
+            "距离"
+        ],
+        "knownum": 1,
+        "total": 97,
+        "answer": "15",
+        "correct": 38,
+        "mistake": 52,
+        "error": 1,
+        "acc ": 0.3917525773195876,
+        "mis": 0.5360824742268041,
+        "err": 0.010309278350515464
+    },
+    {
+        "id": 847,
+        "question": "如图,⊙O的直径为10,弦AB的长为6,M是弦AB上的一动点,则线段的OM的长的取值范围是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\847.png",
+        "correctans": "4≤OM≤5",
+        "length": 47,
+        "know": [
+            "勾股定理",
+            "垂径定理"
+        ],
+        "knownum": 2,
+        "total": 98,
+        "answer": "5",
+        "correct": 39,
+        "mistake": 52,
+        "error": 1,
+        "acc ": 0.3979591836734694,
+        "mis": 0.5306122448979592,
+        "err": 0.01020408163265306
+    },
+    {
+        "id": 4835,
+        "question": "如图,Rt△ABC∽Rt△ACD,且AB=10cm,AC=8cm,则AD的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4835.png",
+        "correctans": "6.4厘米",
+        "length": 41,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 99,
+        "answer": "6.4",
+        "correct": 40,
+        "mistake": 52,
+        "error": 1,
+        "acc ": 0.40404040404040403,
+        "mis": 0.5252525252525253,
+        "err": 0.010101010101010102
+    },
+    {
+        "id": 1792,
+        "question": "如图,点A,B,C在⊙O上,∠OAB=65°,则∠ACB的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1792.png",
+        "correctans": "25°",
+        "length": 34,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 100,
+        "answer": "32.5",
+        "correct": 40,
+        "mistake": 53,
+        "error": 1,
+        "acc ": 0.4,
+        "mis": 0.53,
+        "err": 0.01
+    },
+    {
+        "id": 1484,
+        "question": "如图,小明从点A向北偏东80°方向走到B点,又从B点向南偏西25°方向走到点C,则∠ABC的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1484.png",
+        "correctans": "55°",
+        "length": 51,
+        "know": [],
+        "knownum": 0,
+        "total": 101,
+        "answer": "195",
+        "correct": 40,
+        "mistake": 54,
+        "error": 1,
+        "acc ": 0.39603960396039606,
+        "mis": 0.5346534653465347,
+        "err": 0.009900990099009901
+    },
+    {
+        "id": 1131,
+        "question": "如图所示,是一株美丽的勾股树,其中所有的四边形都是正方形,所有的三角形都是直角三角形,若正方形A．B、C、D的面积分别为2,5,1,2．则最大的正方形E的面积是().",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1131.png",
+        "correctans": "10",
+        "length": 83,
+        "know": [
+            "正方形",
+            "勾股定理",
+            "直角三角形"
+        ],
+        "knownum": 3,
+        "total": 102,
+        "answer": "8",
+        "correct": 40,
+        "mistake": 55,
+        "error": 1,
+        "acc ": 0.39215686274509803,
+        "mis": 0.5392156862745098,
+        "err": 0.00980392156862745
+    },
+    {
+        "id": 1556,
+        "question": "如图,菱形ABCD的一边中点M到对角线交点O的距离为5cm,则菱形ABCD的周长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1556.png",
+        "correctans": "40cm",
+        "length": 43,
+        "know": [
+            "距离",
+            "菱形"
+        ],
+        "knownum": 2,
+        "total": 103,
+        "answer": "2",
+        "correct": 40,
+        "mistake": 56,
+        "error": 1,
+        "acc ": 0.3883495145631068,
+        "mis": 0.5436893203883495,
+        "err": 0.009708737864077669
+    },
+    {
+        "id": 961,
+        "question": "如图,直线AB与直线CD相交于点O.若∠AOD=50°,则∠BOC的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\961.png",
+        "correctans": "50°",
+        "length": 39,
+        "know": [
+            "对顶角",
+            "邻补角"
+        ],
+        "knownum": 2,
+        "total": 104,
+        "answer": "50",
+        "correct": 41,
+        "mistake": 56,
+        "error": 1,
+        "acc ": 0.3942307692307692,
+        "mis": 0.5384615384615384,
+        "err": 0.009615384615384616
+    },
+    {
+        "id": 8438,
+        "question": "如图,已知A、B、C为⊙O上的三点,∠BAC=30°,则∠BOC等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8438.png",
+        "correctans": "60°",
+        "length": 36,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 105,
+        "answer": "60",
+        "correct": 42,
+        "mistake": 56,
+        "error": 1,
+        "acc ": 0.4,
+        "mis": 0.5333333333333333,
+        "err": 0.009523809523809525
+    },
+    {
+        "id": 123,
+        "question": "如图,在△ABC中,∠C=90°,AC=BC,AD平分∠CAB交BC于D,DE⊥AB于E,若AB=6cm,则△DBE的周长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\123.png",
+        "correctans": "6cm",
+        "length": 64,
+        "know": [
+            "角平分线"
+        ],
+        "knownum": 1,
+        "total": 106,
+        "answer": "2",
+        "correct": 42,
+        "mistake": 57,
+        "error": 1,
+        "acc ": 0.39622641509433965,
+        "mis": 0.5377358490566038,
+        "err": 0.009433962264150943
+    },
+    {
+        "id": 3341,
+        "question": "如图所示,AB为⊙O的直径,P点为其半圆上一点,∠POA=40°,C为另一半圆上任意一点(不含A、B),则∠PCB的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3341.png",
+        "correctans": "70°",
+        "length": 63,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 107,
+        "answer": "50",
+        "correct": 42,
+        "mistake": 58,
+        "error": 1,
+        "acc ": 0.3925233644859813,
+        "mis": 0.5420560747663551,
+        "err": 0.009345794392523364
+    },
+    {
+        "id": 9620,
+        "question": "如图,BD是⊙O的直径,点A、C在⊙O上,且BD⊥AC,若⁀{AB}的度数为60°,则∠BDC的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9620.png",
+        "correctans": "30°",
+        "length": 53,
+        "know": [
+            "圆心角",
+            "圆周角",
+            "垂径定理"
+        ],
+        "knownum": 3,
+        "total": 108,
+        "answer": "90",
+        "correct": 42,
+        "mistake": 59,
+        "error": 1,
+        "acc ": 0.3888888888888889,
+        "mis": 0.5462962962962963,
+        "err": 0.009259259259259259
+    },
+    {
+        "id": 6754,
+        "question": "如图,⊙A,⊙B,⊙C两两不相交,且半径均为0.5,则图中三个阴影部分的面积之和为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\6754.png",
+        "correctans": "\\frac{π}{8}",
+        "length": 43,
+        "know": [
+            "扇形面积",
+            "三角形内角和"
+        ],
+        "knownum": 2,
+        "total": 109,
+        "answer": "8",
+        "correct": 43,
+        "mistake": 59,
+        "error": 1,
+        "acc ": 0.3944954128440367,
+        "mis": 0.5412844036697247,
+        "err": 0.009174311926605505
+    },
+    {
+        "id": 4719,
+        "question": "如图,△ABC中,D,E两点分别在AB,AC边上,且DE∥BC,如果\\frac{AD}{AB}=\\frac{2}{3},AC=6,那么AE的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4719.png",
+        "correctans": "4",
+        "length": 74,
+        "know": [
+            "平行线",
+            "平行线分线段成比例"
+        ],
+        "knownum": 2,
+        "total": 110,
+        "answer": "4",
+        "correct": 44,
+        "mistake": 59,
+        "error": 1,
+        "acc ": 0.4,
+        "mis": 0.5363636363636364,
+        "err": 0.00909090909090909
+    },
+    {
+        "id": 1641,
+        "question": "如图,一副三角板(直角顶点重合)摆放在桌面上,若∠AOD=150°,则∠BOC等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1641.png",
+        "correctans": "30°",
+        "length": 43,
+        "know": [],
+        "knownum": 0,
+        "total": 111,
+        "answer": "30",
+        "correct": 45,
+        "mistake": 59,
+        "error": 1,
+        "acc ": 0.40540540540540543,
+        "mis": 0.5315315315315315,
+        "err": 0.009009009009009009
+    },
+    {
+        "id": 3025,
+        "question": "如图,已知AB是⊙O直径,BC是弦,∠ABC=40°,过圆心O作OD⊥BC交弧BC于点D,连接DC,则∠DCB为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3025.png",
+        "correctans": "25°",
+        "length": 58,
+        "know": [
+            "圆周角",
+            "垂径定理"
+        ],
+        "knownum": 2,
+        "total": 112,
+        "answer": "40",
+        "correct": 45,
+        "mistake": 60,
+        "error": 1,
+        "acc ": 0.4017857142857143,
+        "mis": 0.5357142857142857,
+        "err": 0.008928571428571428
+    },
+    {
+        "id": 387,
+        "question": "如图,将△ABC绕着点C顺时针旋转60°后得到△A′B′C,若∠A=40°,∠B=110°,则∠BCA′的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\387.png",
+        "correctans": "90°",
+        "length": 58,
+        "know": [
+            "旋转"
+        ],
+        "knownum": 1,
+        "total": 113,
+        "answer": "50",
+        "correct": 45,
+        "mistake": 61,
+        "error": 1,
+        "acc ": 0.39823008849557523,
+        "mis": 0.5398230088495575,
+        "err": 0.008849557522123894
+    },
+    {
+        "id": 3155,
+        "question": "如图,点A、B、C在⊙O上,AO∥BC,∠AOB=50°,则∠OAC的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3155.png",
+        "correctans": "25°",
+        "length": 40,
+        "know": [
+            "内错角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 114,
+        "answer": "80",
+        "correct": 45,
+        "mistake": 62,
+        "error": 1,
+        "acc ": 0.39473684210526316,
+        "mis": 0.543859649122807,
+        "err": 0.008771929824561403
+    },
+    {
+        "id": 3987,
+        "question": "如图,AB是⊙O的直径,MN是⊙O的切线,切点为N,如果∠MNB=52°,则∠NOA的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3987.png",
+        "correctans": "76°",
+        "length": 48,
+        "know": [
+            "切线",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 115,
+        "answer": "128",
+        "correct": 45,
+        "mistake": 63,
+        "error": 1,
+        "acc ": 0.391304347826087,
+        "mis": 0.5478260869565217,
+        "err": 0.008695652173913044
+    },
+    {
+        "id": 4653,
+        "question": "如图,已知a∥b∥c,AC=6,AB=2,EF=5,则DF的值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4653.png",
+        "correctans": "\\frac{15}{2}",
+        "length": 34,
+        "know": [
+            "平行线",
+            "平行线分线段成比例"
+        ],
+        "knownum": 2,
+        "total": 116,
+        "answer": "7.5",
+        "correct": 45,
+        "mistake": 64,
+        "error": 1,
+        "acc ": 0.3879310344827586,
+        "mis": 0.5517241379310345,
+        "err": 0.008620689655172414
+    },
+    {
+        "id": 2800,
+        "question": "如图,点A,B,C,P在⊙O上,CD⊥OA,CE⊥OB,垂足分别为D,E,∠DCE=80°,则∠P的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2800.png",
+        "correctans": "50°",
+        "length": 55,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 117,
+        "answer": "50",
+        "correct": 46,
+        "mistake": 64,
+        "error": 1,
+        "acc ": 0.39316239316239315,
+        "mis": 0.5470085470085471,
+        "err": 0.008547008547008548
+    },
+    {
+        "id": 3748,
+        "question": "如图,△ABC内接于⊙O,且∠ABC=70°,则∠AOC为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3748.png",
+        "correctans": "140°",
+        "length": 31,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 118,
+        "answer": "140",
+        "correct": 47,
+        "mistake": 64,
+        "error": 1,
+        "acc ": 0.3983050847457627,
+        "mis": 0.5423728813559322,
+        "err": 0.00847457627118644
+    },
+    {
+        "id": 9299,
+        "question": "如图,在▱ABCD中,∠ABC和∠BCD的平分线交边AD于点E,且BE=12,CE=5,则点A到BC的距离是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9299.png",
+        "correctans": "\\frac{60}{13}",
+        "length": 56,
+        "know": [
+            "勾股定理",
+            "平行线",
+            "角平分线",
+            "距离",
+            "平行四边形"
+        ],
+        "knownum": 5,
+        "total": 119,
+        "answer": "5",
+        "correct": 47,
+        "mistake": 65,
+        "error": 1,
+        "acc ": 0.3949579831932773,
+        "mis": 0.5462184873949579,
+        "err": 0.008403361344537815
+    },
+    {
+        "id": 29,
+        "question": "将一条两边沿平行的纸带如图折叠,若∠1=62°,则∠2等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\29.png",
+        "correctans": "56°",
+        "length": 31,
+        "know": [
+            "平行线"
+        ],
+        "knownum": 1,
+        "total": 120,
+        "answer": "62",
+        "correct": 47,
+        "mistake": 66,
+        "error": 1,
+        "acc ": 0.39166666666666666,
+        "mis": 0.55,
+        "err": 0.008333333333333333
+    },
+    {
+        "id": 1791,
+        "question": "如图,在⊙O中∠O=50°,则∠A的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1791.png",
+        "correctans": "25°",
+        "length": 23,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 121,
+        "answer": "25",
+        "correct": 48,
+        "mistake": 66,
+        "error": 1,
+        "acc ": 0.39669421487603307,
+        "mis": 0.5454545454545454,
+        "err": 0.008264462809917356
+    },
+    {
+        "id": 2993,
+        "question": "如图,在⊙O中,弦AB、CD相交于点P,连结AC、BD,若∠A=35°,∠BPC=78°,则∠B的大小是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2993.png",
+        "correctans": "43°",
+        "length": 54,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 122,
+        "answer": "67",
+        "correct": 48,
+        "mistake": 67,
+        "error": 1,
+        "acc ": 0.39344262295081966,
+        "mis": 0.5491803278688525,
+        "err": 0.00819672131147541
+    },
+    {
+        "id": 1618,
+        "question": "如图,Rt△ABC中,∠C=90°,AB的垂直平分线DE交AC于点E,连接BE,若∠A=35°,则∠CBE的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1618.png",
+        "correctans": "20°",
+        "length": 59,
+        "know": [
+            "垂直平分线"
+        ],
+        "knownum": 1,
+        "total": 123,
+        "answer": "110",
+        "correct": 48,
+        "mistake": 68,
+        "error": 1,
+        "acc ": 0.3902439024390244,
+        "mis": 0.5528455284552846,
+        "err": 0.008130081300813009
+    },
+    {
+        "id": 2866,
+        "question": "如图,在Rt△ABC中,CD是斜边AB上的中线,已知CD=2,AC=3,则sinB的值是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2866.png",
+        "correctans": "\\frac{3}{4}",
+        "length": 46,
+        "know": [
+            "直角三角形斜边上的中线",
+            "直角三角形",
+            "三角函数"
+        ],
+        "knownum": 3,
+        "total": 124,
+        "answer": "0.75",
+        "correct": 48,
+        "mistake": 69,
+        "error": 1,
+        "acc ": 0.3870967741935484,
+        "mis": 0.5564516129032258,
+        "err": 0.008064516129032258
+    },
+    {
+        "id": 5935,
+        "question": "如图,在△ABC中,BC=6,E,F分别是AB,AC的中点,动点P在射线EF上,BP交CE于点D,∠CBP的平分线交CE于点Q,当CQ=\\frac{1}{3}CE时,EP+BP的值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5935.png",
+        "correctans": "12",
+        "length": 93,
+        "know": [
+            "平行线",
+            "相似三角形",
+            "角平分线",
+            "三角形中位线"
+        ],
+        "knownum": 4,
+        "total": 125,
+        "answer": "6",
+        "correct": 48,
+        "mistake": 70,
+        "error": 1,
+        "acc ": 0.384,
+        "mis": 0.56,
+        "err": 0.008
+    },
+    {
+        "id": 2457,
+        "question": "如图,利用标杆BE测量建筑物DC的高度,如果标杆BE长为1.2米,测得AB=1.6米,BC=8.4米．则楼高CD是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2457.png",
+        "correctans": "7.5米",
+        "length": 59,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 126,
+        "answer": "9.6",
+        "correct": 48,
+        "mistake": 71,
+        "error": 1,
+        "acc ": 0.38095238095238093,
+        "mis": 0.5634920634920635,
+        "err": 0.007936507936507936
+    },
+    {
+        "id": 5203,
+        "question": "如图,AB是⊙O的弦,OC⊥AB于H,∠AOC=60°,OH=1,则⊙O的半径为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5203.png",
+        "correctans": "2",
+        "length": 42,
+        "know": [
+            "含30度角的直角三角形",
+            "直角三角形",
+            "垂径定理"
+        ],
+        "knownum": 3,
+        "total": 127,
+        "answer": "3",
+        "correct": 48,
+        "mistake": 72,
+        "error": 1,
+        "acc ": 0.3779527559055118,
+        "mis": 0.5669291338582677,
+        "err": 0.007874015748031496
+    },
+    {
+        "id": 9515,
+        "question": "如图,△ABC内接于⊙O,BD是⊙O的直径．若∠DBC=33°,则∠A等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9515.png",
+        "correctans": "57°",
+        "length": 39,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 128,
+        "answer": "57",
+        "correct": 49,
+        "mistake": 72,
+        "error": 1,
+        "acc ": 0.3828125,
+        "mis": 0.5625,
+        "err": 0.0078125
+    },
+    {
+        "id": 2882,
+        "question": "如图,在Rt△ABC中,∠C=90°,sinA=\\frac{1}{3},则\\cosB的值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2882.png",
+        "correctans": "\\frac{1}{3}",
+        "length": 47,
+        "know": [
+            "三角函数"
+        ],
+        "knownum": 1,
+        "total": 129,
+        "answer": "3",
+        "correct": 50,
+        "mistake": 72,
+        "error": 1,
+        "acc ": 0.3875968992248062,
+        "mis": 0.5581395348837209,
+        "err": 0.007751937984496124
+    },
+    {
+        "id": 2760,
+        "question": "如图,已知Rt△ABC中,∠C=90°,AC=4,tanA=\\frac{1}{2},则BC的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2760.png",
+        "correctans": "2",
+        "length": 50,
+        "know": [
+            "三角函数"
+        ],
+        "knownum": 1,
+        "total": 130,
+        "answer": "2",
+        "correct": 51,
+        "mistake": 72,
+        "error": 1,
+        "acc ": 0.3923076923076923,
+        "mis": 0.5538461538461539,
+        "err": 0.007692307692307693
+    },
+    {
+        "id": 1002,
+        "question": "如图,已知A、B、C均为⊙O上的点,若∠AOB=80°,则∠ACB=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1002.png",
+        "correctans": "40°",
+        "length": 36,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 131,
+        "answer": "40",
+        "correct": 52,
+        "mistake": 72,
+        "error": 1,
+        "acc ": 0.3969465648854962,
+        "mis": 0.549618320610687,
+        "err": 0.007633587786259542
+    },
+    {
+        "id": 1582,
+        "question": "如图,是我国古代著名的“赵爽弦图”的示意图,此图是由四个全等的直角三角形拼接而成,其中AE=10,BE=24,则EF的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1582.png",
+        "correctans": "14",
+        "length": 63,
+        "know": [
+            "正方形",
+            "勾股定理",
+            "直角三角形"
+        ],
+        "knownum": 3,
+        "total": 132,
+        "answer": "26",
+        "correct": 52,
+        "mistake": 73,
+        "error": 1,
+        "acc ": 0.3939393939393939,
+        "mis": 0.553030303030303,
+        "err": 0.007575757575757576
+    },
+    {
+        "id": 3860,
+        "question": "如图,AB为⊙O的直径,C为⊙O上一点,AD和过点C的切线互相垂直,垂足为D．若∠DCA=55°,则∠CAO的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3860.png",
+        "correctans": "35°",
+        "length": 60,
+        "know": [
+            "等腰三角形",
+            "切线"
+        ],
+        "knownum": 2,
+        "total": 133,
+        "answer": "70",
+        "correct": 52,
+        "mistake": 74,
+        "error": 1,
+        "acc ": 0.39097744360902253,
+        "mis": 0.556390977443609,
+        "err": 0.007518796992481203
+    },
+    {
+        "id": 8714,
+        "question": "如图,量角器的直径与直角三角板ABC的斜边重合,其中量角器0刻度线的端点N与点A重合,射线CP绕点C,从CA处出发,沿顺时针方向以每秒2°的速度旋转,CP与量角器的半圆弧交于点E,第35秒时,点E在量角器上对应的读数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8714.png",
+        "correctans": "140°",
+        "length": 111,
+        "know": [
+            "圆周角",
+            "旋转"
+        ],
+        "knownum": 2,
+        "total": 134,
+        "answer": "70",
+        "correct": 52,
+        "mistake": 75,
+        "error": 1,
+        "acc ": 0.3880597014925373,
+        "mis": 0.5597014925373134,
+        "err": 0.007462686567164179
+    },
+    {
+        "id": 4575,
+        "question": "如图,在△ABC中,BC=9,∠ABC的平分线BF交AC于点F,点D、点E分别是边AB、AC上的点,若\\frac{AD}{AB}=\\frac{AE}{AC}=\\frac{EF}{EC}=\\frac{1}{3},则BD-DE的值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4575.png",
+        "correctans": "4.5",
+        "length": 116,
+        "know": [
+            "等腰三角形",
+            "相似三角形"
+        ],
+        "knownum": 2,
+        "total": 135,
+        "answer": "3",
+        "correct": 52,
+        "mistake": 76,
+        "error": 1,
+        "acc ": 0.3851851851851852,
+        "mis": 0.562962962962963,
+        "err": 0.007407407407407408
+    },
+    {
+        "id": 4229,
+        "question": "如图,AB是⊙O的弦,CD与⊙O相切于点A,若∠BAD=66°,则∠B等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4229.png",
+        "correctans": "24°",
+        "length": 39,
+        "know": [
+            "切线"
+        ],
+        "knownum": 1,
+        "total": 136,
+        "answer": "66",
+        "correct": 52,
+        "mistake": 77,
+        "error": 1,
+        "acc ": 0.38235294117647056,
+        "mis": 0.5661764705882353,
+        "err": 0.007352941176470588
+    },
+    {
+        "id": 2308,
+        "question": "如图,CD是平面镜,光线从A点出发经过CD上点E反射后照到B点,若入射角为α(入射角等于反射角),AC⊥CD,BD⊥CD,垂足分别为C,D,且AC=3,BD=4,CD=11,则tanα的值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2308.png",
+        "correctans": "\\frac{11}{7}",
+        "length": 97,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 137,
+        "answer": "11",
+        "correct": 52,
+        "mistake": 78,
+        "error": 1,
+        "acc ": 0.3795620437956204,
+        "mis": 0.5693430656934306,
+        "err": 0.0072992700729927005
+    },
+    {
+        "id": 9152,
+        "question": "如图,四边形ABCD是菱形,∠ABC=120°,AD=2,则对角线AC的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9152.png",
+        "correctans": "2√{3}",
+        "length": 40,
+        "know": [
+            "勾股定理",
+            "菱形"
+        ],
+        "knownum": 2,
+        "total": 138,
+        "answer": "3",
+        "correct": 53,
+        "mistake": 78,
+        "error": 1,
+        "acc ": 0.38405797101449274,
+        "mis": 0.5652173913043478,
+        "err": 0.007246376811594203
+    },
+    {
+        "id": 2243,
+        "question": "如图,已知圆锥的底面直径等于6,高等于4,则其母线长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2243.png",
+        "correctans": "5",
+        "length": 29,
+        "know": [
+            "圆锥的计算"
+        ],
+        "knownum": 1,
+        "total": 139,
+        "answer": "5",
+        "correct": 54,
+        "mistake": 78,
+        "error": 1,
+        "acc ": 0.38848920863309355,
+        "mis": 0.5611510791366906,
+        "err": 0.007194244604316547
+    },
+    {
+        "id": 991,
+        "question": "在□ABCD中,O是AC、BD的交点,过点O与AC垂直的直线交边AD于点E,若□ABCD的周长为22cm,则△CDE的周长为()．",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\991.png",
+        "correctans": "11cm",
+        "length": 65,
+        "know": [
+            "垂直平分线",
+            "平行四边形"
+        ],
+        "knownum": 2,
+        "total": 140,
+        "answer": "13.75",
+        "correct": 54,
+        "mistake": 79,
+        "error": 1,
+        "acc ": 0.38571428571428573,
+        "mis": 0.5642857142857143,
+        "err": 0.007142857142857143
+    },
+    {
+        "id": 1170,
+        "question": "如图,AB是⊙O的直径,BC是⊙O的弦,已知∠AOC=80°,则∠ABC的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1170.png",
+        "correctans": "40°",
+        "length": 42,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 141,
+        "answer": "90",
+        "correct": 54,
+        "mistake": 80,
+        "error": 1,
+        "acc ": 0.3829787234042553,
+        "mis": 0.5673758865248227,
+        "err": 0.0070921985815602835
+    },
+    {
+        "id": 4703,
+        "question": "如图,已知AB∥CD,AO=2,BO=3,CO=6,那么DO=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4703.png",
+        "correctans": "4",
+        "length": 33,
+        "know": [
+            "平行线",
+            "平行线分线段成比例"
+        ],
+        "knownum": 2,
+        "total": 142,
+        "answer": "9",
+        "correct": 54,
+        "mistake": 81,
+        "error": 1,
+        "acc ": 0.38028169014084506,
+        "mis": 0.5704225352112676,
+        "err": 0.007042253521126761
+    },
+    {
+        "id": 5975,
+        "question": "如图,已知∠AOB=30°,点P在OA上,点C、D在OB上,且PC=PD,若OP=CD,则∠OPD的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5975.png",
+        "correctans": "105°",
+        "length": 55,
+        "know": [
+            "等腰三角形",
+            "直角三角形",
+            "三角形内角和"
+        ],
+        "knownum": 3,
+        "total": 143,
+        "answer": "30",
+        "correct": 54,
+        "mistake": 82,
+        "error": 1,
+        "acc ": 0.3776223776223776,
+        "mis": 0.5734265734265734,
+        "err": 0.006993006993006993
+    },
+    {
+        "id": 8501,
+        "question": "如图,△ABC内接于⊙O,∠BAC=120°,AB=AC,BD为⊙O的直径,AB=3,则AD的值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8501.png",
+        "correctans": "3√{3}",
+        "length": 51,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 144,
+        "answer": "3",
+        "correct": 55,
+        "mistake": 82,
+        "error": 1,
+        "acc ": 0.3819444444444444,
+        "mis": 0.5694444444444444,
+        "err": 0.006944444444444444
+    },
+    {
+        "id": 7152,
+        "question": "如图矩形ABCD中,点E是边AD的中点,FE交对角线AC于点F,若△AFE的面积为2,则△BCF的面积等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7152.png",
+        "correctans": "8",
+        "length": 55,
+        "know": [
+            "相似三角形",
+            "矩形"
+        ],
+        "knownum": 2,
+        "total": 145,
+        "answer": "4",
+        "correct": 55,
+        "mistake": 83,
+        "error": 1,
+        "acc ": 0.3793103448275862,
+        "mis": 0.5724137931034483,
+        "err": 0.006896551724137931
+    },
+    {
+        "id": 697,
+        "question": "如图,把一块直角三角板的直角顶点放在直尺的一边上,若∠1=35°,则∠2等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\697.png",
+        "correctans": "55°",
+        "length": 40,
+        "know": [
+            "三角形内角和"
+        ],
+        "knownum": 1,
+        "total": 146,
+        "answer": "55",
+        "correct": 56,
+        "mistake": 83,
+        "error": 1,
+        "acc ": 0.3835616438356164,
+        "mis": 0.5684931506849316,
+        "err": 0.00684931506849315
+    },
+    {
+        "id": 2849,
+        "question": "如图,在Rt△ABC中,∠C=90°,BC=2,AC=3,则tanB的值是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2849.png",
+        "correctans": "\\frac{3}{2}",
+        "length": 39,
+        "know": [
+            "直角三角形",
+            "三角函数"
+        ],
+        "knownum": 2,
+        "total": 147,
+        "answer": "3",
+        "correct": 56,
+        "mistake": 84,
+        "error": 1,
+        "acc ": 0.38095238095238093,
+        "mis": 0.5714285714285714,
+        "err": 0.006802721088435374
+    },
+    {
+        "id": 8053,
+        "question": "如图是某校教学楼的楼梯(部分),如果每个台阶的高15cm,宽25cm,那么楼梯的坡度tanB=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8053.png",
+        "correctans": "\\frac{3}{5}",
+        "length": 49,
+        "know": [
+            "直角三角形",
+            "坡角"
+        ],
+        "knownum": 2,
+        "total": 148,
+        "answer": "0.6",
+        "correct": 56,
+        "mistake": 85,
+        "error": 1,
+        "acc ": 0.3783783783783784,
+        "mis": 0.5743243243243243,
+        "err": 0.006756756756756757
+    },
+    {
+        "id": 4795,
+        "question": "如图,直线AB∥CD∥EF,若AC=3,CE=4,则\\frac{BD}{BF}的值是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4795.png",
+        "correctans": "\\frac{3}{7}",
+        "length": 44,
+        "know": [
+            "平行线",
+            "平行线分线段成比例"
+        ],
+        "knownum": 2,
+        "total": 149,
+        "answer": "0.75",
+        "correct": 56,
+        "mistake": 86,
+        "error": 1,
+        "acc ": 0.37583892617449666,
+        "mis": 0.5771812080536913,
+        "err": 0.006711409395973154
+    },
+    {
+        "id": 8510,
+        "question": "如图,已知⊙O的弦AB、CD相交于点E,⁀{AC}的度数为60°,⁀{BD}的度数为100°,则∠AEC等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8510.png",
+        "correctans": "80°",
+        "length": 56,
+        "know": [
+            "三角形内角和",
+            "三角形的外角",
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 4,
+        "total": 150,
+        "answer": "280",
+        "correct": 56,
+        "mistake": 87,
+        "error": 1,
+        "acc ": 0.37333333333333335,
+        "mis": 0.58,
+        "err": 0.006666666666666667
+    },
+    {
+        "id": 3533,
+        "question": "如图,四边形ABCD内接于⊙O,F是⁀{CD}上一点,且⁀{DF}=⁀{BC},连接CF并延长交AD的延长线于点E,连接AC．若∠ABC=105°,∠BAC=25°,则∠E的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3533.png",
+        "correctans": "50°",
+        "length": 92,
+        "know": [
+            "圆内接四边形",
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 3,
+        "total": 151,
+        "answer": "80",
+        "correct": 56,
+        "mistake": 88,
+        "error": 1,
+        "acc ": 0.3708609271523179,
+        "mis": 0.5827814569536424,
+        "err": 0.006622516556291391
+    },
+    {
+        "id": 7497,
+        "question": "如图,在△ABC中,DE∥BC,AD:AB=1:3,若△ADE的面积等于3,则△ABC的面积等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7497.png",
+        "correctans": "27",
+        "length": 50,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 152,
+        "answer": "27",
+        "correct": 57,
+        "mistake": 88,
+        "error": 1,
+        "acc ": 0.375,
+        "mis": 0.5789473684210527,
+        "err": 0.006578947368421052
+    },
+    {
+        "id": 207,
+        "question": "如图,正方形OABC绕着点O逆时针旋转40°得到正方形ODEF,连接AF,则∠OFA的度数是().",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\207.png",
+        "correctans": "25°",
+        "length": 49,
+        "know": [
+            "正方形",
+            "旋转"
+        ],
+        "knownum": 2,
+        "total": 153,
+        "answer": "50",
+        "correct": 57,
+        "mistake": 89,
+        "error": 1,
+        "acc ": 0.37254901960784315,
+        "mis": 0.5816993464052288,
+        "err": 0.006535947712418301
+    },
+    {
+        "id": 7565,
+        "question": "如图,在正方形ABCD中,E为边BC的中点,EF⊥AE,与边CD相交于点F,如果△CEF的面积等于1,那么△ABE的面积等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7565.png",
+        "correctans": "4",
+        "length": 64,
+        "know": [
+            "正方形",
+            "相似三角形"
+        ],
+        "knownum": 2,
+        "total": 154,
+        "answer": "2",
+        "correct": 57,
+        "mistake": 90,
+        "error": 1,
+        "acc ": 0.37012987012987014,
+        "mis": 0.5844155844155844,
+        "err": 0.006493506493506494
+    },
+    {
+        "id": 9634,
+        "question": "如图,A、D是⊙O上的两个点,BC是直径．若∠D=32°,则∠OAC=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9634.png",
+        "correctans": "58°",
+        "length": 37,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 155,
+        "answer": "0",
+        "correct": 57,
+        "mistake": 90,
+        "error": 2,
+        "acc ": 0.36774193548387096,
+        "mis": 0.5806451612903226,
+        "err": 0.012903225806451613
+    },
+    {
+        "id": 7598,
+        "question": "如图,在△ABC中,DE∥BC,\\frac{AD}{BD}=\\frac{1}{2},BC=12,则DE的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7598.png",
+        "correctans": "4",
+        "length": 56,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 156,
+        "answer": "4",
+        "correct": 58,
+        "mistake": 90,
+        "error": 2,
+        "acc ": 0.3717948717948718,
+        "mis": 0.5769230769230769,
+        "err": 0.01282051282051282
+    },
+    {
+        "id": 9695,
+        "question": "如图,AB是⊙O的直径,∠BAD=70°,则∠ACD的大小为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9695.png",
+        "correctans": "20°",
+        "length": 32,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 157,
+        "answer": "20",
+        "correct": 59,
+        "mistake": 90,
+        "error": 2,
+        "acc ": 0.37579617834394907,
+        "mis": 0.5732484076433121,
+        "err": 0.012738853503184714
+    },
+    {
+        "id": 5908,
+        "question": "如图,等腰△ABC的底边BC长为6,面积是36,腰AC的垂直平分线EF分别交AC,AB边于E,F点．若点D为BC边的中点,点M为线段EF上一动点,则△CDM周长的最小值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5908.png",
+        "correctans": "15",
+        "length": 87,
+        "know": [
+            "等腰三角形",
+            "垂直平分线",
+            "对称"
+        ],
+        "knownum": 3,
+        "total": 158,
+        "answer": "21",
+        "correct": 59,
+        "mistake": 91,
+        "error": 2,
+        "acc ": 0.37341772151898733,
+        "mis": 0.5759493670886076,
+        "err": 0.012658227848101266
+    },
+    {
+        "id": 3380,
+        "question": "AB为⊙O的直径,点C、D在⊙O上．若∠ABD=42°,则∠BCD的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3380.png",
+        "correctans": "132°",
+        "length": 39,
+        "know": [
+            "圆内接四边形",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 159,
+        "answer": "48",
+        "correct": 59,
+        "mistake": 92,
+        "error": 2,
+        "acc ": 0.3710691823899371,
+        "mis": 0.5786163522012578,
+        "err": 0.012578616352201259
+    },
+    {
+        "id": 4103,
+        "question": "如图,已知BC是⊙O的直径,AB是⊙O的弦,切线AD交BC的延长线于D,若∠D=40°,则∠B的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4103.png",
+        "correctans": "25°",
+        "length": 53,
+        "know": [
+            "切线"
+        ],
+        "knownum": 1,
+        "total": 160,
+        "answer": "40",
+        "correct": 59,
+        "mistake": 93,
+        "error": 2,
+        "acc ": 0.36875,
+        "mis": 0.58125,
+        "err": 0.0125
+    },
+    {
+        "id": 5365,
+        "question": "如图,线段AB=10cm,点C为线段AB上一点,BC=3cm,点D,E分别为AC和AB的中点,则线段DE的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5365.png",
+        "correctans": "\\frac{3}{2}",
+        "length": 57,
+        "know": [
+            "距离"
+        ],
+        "knownum": 1,
+        "total": 161,
+        "answer": "8.5",
+        "correct": 59,
+        "mistake": 94,
+        "error": 2,
+        "acc ": 0.36645962732919257,
+        "mis": 0.5838509316770186,
+        "err": 0.012422360248447204
+    },
+    {
+        "id": 1146,
+        "question": "如图,AB∥CE,∠B=60°,DM平分∠BDC,DM⊥DN,则∠NDE()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1146.png",
+        "correctans": "30°",
+        "length": 38,
+        "know": [
+            "对顶角",
+            "内错角",
+            "平行线",
+            "邻补角"
+        ],
+        "knownum": 4,
+        "total": 162,
+        "answer": "120",
+        "correct": 59,
+        "mistake": 95,
+        "error": 2,
+        "acc ": 0.36419753086419754,
+        "mis": 0.5864197530864198,
+        "err": 0.012345679012345678
+    },
+    {
+        "id": 5526,
+        "question": "如图,直线a∥b∥c,直线m、n与这三条平行线分别交于点A、B、C和点D、E、F．若AB=3．BC=5,DF=12,则DE的值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5526.png",
+        "correctans": "\\frac{9}{2}",
+        "length": 66,
+        "know": [
+            "平行线",
+            "平行线分线段成比例"
+        ],
+        "knownum": 2,
+        "total": 163,
+        "answer": "7.2",
+        "correct": 59,
+        "mistake": 96,
+        "error": 2,
+        "acc ": 0.3619631901840491,
+        "mis": 0.588957055214724,
+        "err": 0.012269938650306749
+    },
+    {
+        "id": 1481,
+        "question": "如图,PA,PB分别与⊙O相切于A、B两点,∠P=80°,则∠C为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1481.png",
+        "correctans": "50°",
+        "length": 35,
+        "know": [
+            "切线",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 164,
+        "answer": "80",
+        "correct": 59,
+        "mistake": 97,
+        "error": 2,
+        "acc ": 0.3597560975609756,
+        "mis": 0.5914634146341463,
+        "err": 0.012195121951219513
+    },
+    {
+        "id": 5951,
+        "question": "已知,如图,在△ABC中,D是BC的中点,AE平分∠BAC,BE⊥AE于点E,且AC=14,ED=3,则AB的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5951.png",
+        "correctans": "8",
+        "length": 59,
+        "know": [
+            "等腰三角形",
+            "三角形中位线"
+        ],
+        "knownum": 2,
+        "total": 165,
+        "answer": "33",
+        "correct": 59,
+        "mistake": 98,
+        "error": 2,
+        "acc ": 0.3575757575757576,
+        "mis": 0.593939393939394,
+        "err": 0.012121212121212121
+    },
+    {
+        "id": 1134,
+        "question": "如图,在△ABC中,∠C=90°,∠BAC=70°,将△ABC绕点A顺时针旋转70°,B,C旋转后的对应点分别是B′和C′,连接BB′,则∠ABB′的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1134.png",
+        "correctans": "55°",
+        "length": 80,
+        "know": [
+            "旋转"
+        ],
+        "knownum": 1,
+        "total": 166,
+        "answer": "70",
+        "correct": 59,
+        "mistake": 99,
+        "error": 2,
+        "acc ": 0.35542168674698793,
+        "mis": 0.5963855421686747,
+        "err": 0.012048192771084338
+    },
+    {
+        "id": 7830,
+        "question": "如图,在△ABC中,DE∥BC,AD:AB=1:3,若△ADE的面积等于2,则△ABC的面积等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7830.png",
+        "correctans": "18",
+        "length": 50,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 167,
+        "answer": "18",
+        "correct": 60,
+        "mistake": 99,
+        "error": 2,
+        "acc ": 0.3592814371257485,
+        "mis": 0.592814371257485,
+        "err": 0.011976047904191617
+    },
+    {
+        "id": 7250,
+        "question": "如图,已知AB、CD、EF互相平行,且AB=1,CD=4,那么EF的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7250.png",
+        "correctans": "\\frac{4}{5}",
+        "length": 38,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 168,
+        "answer": "2",
+        "correct": 60,
+        "mistake": 100,
+        "error": 2,
+        "acc ": 0.35714285714285715,
+        "mis": 0.5952380952380952,
+        "err": 0.011904761904761904
+    },
+    {
+        "id": 361,
+        "question": "如图,AB是⊙O的直径,点C在⊙O上,过点C作⊙O的切线交AB的延长线于点D,连接AC．若∠D=50°,则∠A的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\361.png",
+        "correctans": "20°",
+        "length": 61,
+        "know": [
+            "切线"
+        ],
+        "knownum": 1,
+        "total": 169,
+        "answer": "80",
+        "correct": 60,
+        "mistake": 101,
+        "error": 2,
+        "acc ": 0.35502958579881655,
+        "mis": 0.5976331360946746,
+        "err": 0.011834319526627219
+    },
+    {
+        "id": 5500,
+        "question": "如图,A,B,C是⊙O上的三点,∠BAC=55°,则∠BOC的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5500.png",
+        "correctans": "110°",
+        "length": 36,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 170,
+        "answer": "110",
+        "correct": 61,
+        "mistake": 101,
+        "error": 2,
+        "acc ": 0.3588235294117647,
+        "mis": 0.5941176470588235,
+        "err": 0.011764705882352941
+    },
+    {
+        "id": 9567,
+        "question": "如图,过平行四边形的对称中心0任意画5条直线a、b、m、n、l,已知BC=6,BC边上的高为4,则阴影部分的面积为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9567.png",
+        "correctans": "12",
+        "length": 59,
+        "know": [
+            "对称",
+            "平行四边形"
+        ],
+        "knownum": 2,
+        "total": 171,
+        "answer": "24",
+        "correct": 61,
+        "mistake": 102,
+        "error": 2,
+        "acc ": 0.3567251461988304,
+        "mis": 0.5964912280701754,
+        "err": 0.011695906432748537
+    },
+    {
+        "id": 5806,
+        "question": "如图,已知等腰△ABC的一腰AB长为4厘米,过底边BC上任意一点D作两腰的平行线,分别交两腰于E、F,则四边形AEDF的周长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5806.png",
+        "correctans": "8厘米",
+        "length": 65,
+        "know": [
+            "等腰三角形",
+            "平行线"
+        ],
+        "knownum": 2,
+        "total": 172,
+        "answer": "16",
+        "correct": 61,
+        "mistake": 103,
+        "error": 2,
+        "acc ": 0.3546511627906977,
+        "mis": 0.5988372093023255,
+        "err": 0.011627906976744186
+    },
+    {
+        "id": 8574,
+        "question": "如图,已知⊙O是△ABD的外接圆,AB是⊙O的直径,CD是⊙O的弦,∠ABD=50°,则∠BCD等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8574.png",
+        "correctans": "40°",
+        "length": 52,
+        "know": [
+            "外接圆",
+            "直角三角形",
+            "圆周角"
+        ],
+        "knownum": 3,
+        "total": 173,
+        "answer": "50",
+        "correct": 61,
+        "mistake": 104,
+        "error": 2,
+        "acc ": 0.35260115606936415,
+        "mis": 0.6011560693641619,
+        "err": 0.011560693641618497
+    },
+    {
+        "id": 9700,
+        "question": "如图,⊙O是△ABC的外接圆,∠BOC=110°,则∠A的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9700.png",
+        "correctans": "55°",
+        "length": 34,
+        "know": [
+            "外接圆",
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 3,
+        "total": 174,
+        "answer": "55",
+        "correct": 62,
+        "mistake": 104,
+        "error": 2,
+        "acc ": 0.3563218390804598,
+        "mis": 0.5977011494252874,
+        "err": 0.011494252873563218
+    },
+    {
+        "id": 9050,
+        "question": "如图,已知△ABC中,AC=2,BC=4,以AB为边向形外作正方形ABMN,若∠ACB的度数发生变化,连接CN,则CN的最大值是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9050.png",
+        "correctans": "4+2√{2}",
+        "length": 66,
+        "know": [
+            "正方形",
+            "旋转"
+        ],
+        "knownum": 2,
+        "total": 175,
+        "answer": "90",
+        "correct": 62,
+        "mistake": 105,
+        "error": 2,
+        "acc ": 0.35428571428571426,
+        "mis": 0.6,
+        "err": 0.011428571428571429
+    },
+    {
+        "id": 1516,
+        "question": "如图,△ABC中,∠A=70°,点O是AB、AC垂直平分线的交点,则∠BCO的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1516.png",
+        "correctans": "20°",
+        "length": 44,
+        "know": [
+            "垂直平分线",
+            "三角形内角和"
+        ],
+        "knownum": 2,
+        "total": 176,
+        "answer": "20",
+        "correct": 63,
+        "mistake": 105,
+        "error": 2,
+        "acc ": 0.35795454545454547,
+        "mis": 0.5965909090909091,
+        "err": 0.011363636363636364
+    },
+    {
+        "id": 7783,
+        "question": "如图,在△ABC中,若∠AED=∠B,DE=6,AB=10,AE=8,则BC的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7783.png",
+        "correctans": "\\frac{15}{2}",
+        "length": 43,
+        "know": [
+            "相似三角形"
+        ],
+        "knownum": 1,
+        "total": 177,
+        "answer": "7.5",
+        "correct": 63,
+        "mistake": 106,
+        "error": 2,
+        "acc ": 0.3559322033898305,
+        "mis": 0.5988700564971752,
+        "err": 0.011299435028248588
+    },
+    {
+        "id": 9799,
+        "question": "如图,AB为⊙O的直径,点D、C在⊙O上,∠D=62°,则∠ACO的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9799.png",
+        "correctans": "28°",
+        "length": 39,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 178,
+        "answer": "62",
+        "correct": 63,
+        "mistake": 107,
+        "error": 2,
+        "acc ": 0.3539325842696629,
+        "mis": 0.601123595505618,
+        "err": 0.011235955056179775
+    },
+    {
+        "id": 3541,
+        "question": "如图,⊙O的内接四边形ABCD两组对边的延长线分别交于点E、F,若∠E=∠F=35°,则∠A的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3541.png",
+        "correctans": "55°",
+        "length": 52,
+        "know": [
+            "圆内接四边形"
+        ],
+        "knownum": 1,
+        "total": 179,
+        "answer": "35",
+        "correct": 63,
+        "mistake": 108,
+        "error": 2,
+        "acc ": 0.35195530726256985,
+        "mis": 0.6033519553072626,
+        "err": 0.0111731843575419
+    },
+    {
+        "id": 5382,
+        "question": "如图,AB∥DF,AC⊥CE于C,BC与DF交于点E,若∠A=20°,则∠CEF等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5382.png",
+        "correctans": "110°",
+        "length": 44,
+        "know": [
+            "直角三角形",
+            "平行线"
+        ],
+        "knownum": 2,
+        "total": 180,
+        "answer": "70",
+        "correct": 63,
+        "mistake": 109,
+        "error": 2,
+        "acc ": 0.35,
+        "mis": 0.6055555555555555,
+        "err": 0.011111111111111112
+    },
+    {
+        "id": 1813,
+        "question": "如图,在⊙O中,OC⊥AB,∠ADC=26°,则∠COB的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1813.png",
+        "correctans": "52°",
+        "length": 34,
+        "know": [
+            "圆心角",
+            "圆周角",
+            "垂径定理"
+        ],
+        "knownum": 3,
+        "total": 181,
+        "answer": "90",
+        "correct": 63,
+        "mistake": 110,
+        "error": 2,
+        "acc ": 0.34806629834254144,
+        "mis": 0.6077348066298343,
+        "err": 0.011049723756906077
+    },
+    {
+        "id": 1222,
+        "question": "如图所示,M是△ABC的边BC的中点,AN平分∠BAC,BN⊥AN于点N,且AB=8,MN=3,则AC的长是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1222.png",
+        "correctans": "14",
+        "length": 56,
+        "know": [
+            "三角形中位线"
+        ],
+        "knownum": 1,
+        "total": 182,
+        "answer": "8",
+        "correct": 63,
+        "mistake": 111,
+        "error": 2,
+        "acc ": 0.34615384615384615,
+        "mis": 0.6098901098901099,
+        "err": 0.01098901098901099
+    },
+    {
+        "id": 9278,
+        "question": "如图,已知平行四边形ABCD的面积为48,E为AB的中点,连接DE、OE,则△ODE的面积为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9278.png",
+        "correctans": "6",
+        "length": 48,
+        "know": [
+            "平行四边形"
+        ],
+        "knownum": 1,
+        "total": 183,
+        "answer": "12",
+        "correct": 63,
+        "mistake": 112,
+        "error": 2,
+        "acc ": 0.3442622950819672,
+        "mis": 0.6120218579234973,
+        "err": 0.01092896174863388
+    },
+    {
+        "id": 458,
+        "question": "如图,在⊙O的内接五边形ABCDE中,∠CAD=35°,∠AED=115°,则∠B的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\458.png",
+        "correctans": "100°",
+        "length": 47,
+        "know": [
+            "多边形",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 184,
+        "answer": "180",
+        "correct": 63,
+        "mistake": 113,
+        "error": 2,
+        "acc ": 0.3423913043478261,
+        "mis": 0.6141304347826086,
+        "err": 0.010869565217391304
+    },
+    {
+        "id": 2421,
+        "question": "如图,⊙O中,弦BC与半径OA相交于点D,连接AB,OC．若∠A=60°,∠ADC=85°,则∠C的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2421.png",
+        "correctans": "35°",
+        "length": 55,
+        "know": [
+            "三角形的外角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 185,
+        "answer": "60",
+        "correct": 63,
+        "mistake": 114,
+        "error": 2,
+        "acc ": 0.34054054054054056,
+        "mis": 0.6162162162162163,
+        "err": 0.010810810810810811
+    },
+    {
+        "id": 3089,
+        "question": "如图,在⊙O中,AD是直径,∠ABC=40°,则∠CAD等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3089.png",
+        "correctans": "50°",
+        "length": 32,
+        "know": [
+            "直角三角形",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 186,
+        "answer": "50",
+        "correct": 64,
+        "mistake": 114,
+        "error": 2,
+        "acc ": 0.34408602150537637,
+        "mis": 0.6129032258064516,
+        "err": 0.010752688172043012
+    },
+    {
+        "id": 8615,
+        "question": "如图,AB是⊙O的直径,AC是弦,∠A=30°,则∠BOC为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\8615.png",
+        "correctans": "60°",
+        "length": 32,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 187,
+        "answer": "60",
+        "correct": 65,
+        "mistake": 114,
+        "error": 2,
+        "acc ": 0.34759358288770054,
+        "mis": 0.6096256684491979,
+        "err": 0.0106951871657754
+    },
+    {
+        "id": 1609,
+        "question": "如图,OE是∠AOB的平分线,CD∥OB交OA于C,交OE于D,∠ACD=50°,则∠CDO的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1609.png",
+        "correctans": "25°",
+        "length": 52,
+        "know": [
+            "平行线",
+            "角平分线"
+        ],
+        "knownum": 2,
+        "total": 188,
+        "answer": "80",
+        "correct": 65,
+        "mistake": 115,
+        "error": 2,
+        "acc ": 0.34574468085106386,
+        "mis": 0.6117021276595744,
+        "err": 0.010638297872340425
+    },
+    {
+        "id": 3407,
+        "question": "如图,已知圆心角∠AOB的度数为100°,则圆周角∠ACB的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\3407.png",
+        "correctans": "130°",
+        "length": 35,
+        "know": [
+            "圆心角",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 189,
+        "answer": "50",
+        "correct": 65,
+        "mistake": 116,
+        "error": 2,
+        "acc ": 0.3439153439153439,
+        "mis": 0.6137566137566137,
+        "err": 0.010582010582010581
+    },
+    {
+        "id": 2399,
+        "question": "如图,若AB是⊙O的直径,CD是⊙O的弦,∠ABD=50°,则∠BCD的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\2399.png",
+        "correctans": "40°",
+        "length": 41,
+        "know": [
+            "圆周角"
+        ],
+        "knownum": 1,
+        "total": 190,
+        "answer": "40",
+        "correct": 66,
+        "mistake": 116,
+        "error": 2,
+        "acc ": 0.3473684210526316,
+        "mis": 0.6105263157894737,
+        "err": 0.010526315789473684
+    },
+    {
+        "id": 1007,
+        "question": "如图,一块含30°角的三角尺置于直尺上,∠1=25°,则∠2的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1007.png",
+        "correctans": "35°",
+        "length": 36,
+        "know": [
+            "平行线"
+        ],
+        "knownum": 1,
+        "total": 191,
+        "answer": "5",
+        "correct": 66,
+        "mistake": 117,
+        "error": 2,
+        "acc ": 0.34554973821989526,
+        "mis": 0.612565445026178,
+        "err": 0.010471204188481676
+    },
+    {
+        "id": 7844,
+        "question": "如图,已知商场自动扶梯的长l为10米,自动扶梯与地面所成的角为30°,则该自动扶梯到达的高度h为()米．",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\7844.png",
+        "correctans": "5",
+        "length": 52,
+        "know": [
+            "直角三角形",
+            "坡角",
+            "三角函数"
+        ],
+        "knownum": 3,
+        "total": 192,
+        "answer": "5",
+        "correct": 67,
+        "mistake": 117,
+        "error": 2,
+        "acc ": 0.3489583333333333,
+        "mis": 0.609375,
+        "err": 0.010416666666666666
+    },
+    {
+        "id": 4309,
+        "question": "如图,AB是⊙O的直径,AD是⊙O的切线,BC∥OD交⊙O于点C,若AB=2,OD=3,则BC的长为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\4309.png",
+        "correctans": "\\frac{2}{3}",
+        "length": 52,
+        "know": [
+            "相似三角形",
+            "切线",
+            "圆周角"
+        ],
+        "knownum": 3,
+        "total": 193,
+        "answer": "3",
+        "correct": 68,
+        "mistake": 117,
+        "error": 2,
+        "acc ": 0.35233160621761656,
+        "mis": 0.6062176165803109,
+        "err": 0.010362694300518135
+    },
+    {
+        "id": 1459,
+        "question": "如图一棵大树在离地面9米高的B处断裂,树顶A落在离树底部C的12米处,则大树断裂之前的高度为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1459.png",
+        "correctans": "24米",
+        "length": 48,
+        "know": [
+            "勾股定理"
+        ],
+        "knownum": 1,
+        "total": 194,
+        "answer": "15",
+        "correct": 68,
+        "mistake": 118,
+        "error": 2,
+        "acc ": 0.35051546391752575,
+        "mis": 0.6082474226804123,
+        "err": 0.010309278350515464
+    },
+    {
+        "id": 9269,
+        "question": "如图是一个边长为15cm的活动菱形衣帽架,若墙上钉子间的距离AB=BC=15cm,那么∠1的度数为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\9269.png",
+        "correctans": "60°",
+        "length": 51,
+        "know": [
+            "等边三角形",
+            "距离",
+            "菱形"
+        ],
+        "knownum": 3,
+        "total": 195,
+        "answer": "45",
+        "correct": 68,
+        "mistake": 119,
+        "error": 2,
+        "acc ": 0.3487179487179487,
+        "mis": 0.6102564102564103,
+        "err": 0.010256410256410256
+    },
+    {
+        "id": 5380,
+        "question": "如图,已知点A、B、C在同一直线上,AB=7,BC=3,点D为线段AC的中点,线段DB的长度为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5380.png",
+        "correctans": "2",
+        "length": 49,
+        "know": [
+            "距离"
+        ],
+        "knownum": 1,
+        "total": 196,
+        "answer": "12",
+        "correct": 68,
+        "mistake": 120,
+        "error": 2,
+        "acc ": 0.3469387755102041,
+        "mis": 0.6122448979591837,
+        "err": 0.01020408163265306
+    },
+    {
+        "id": 5919,
+        "question": "如图,△ABC的周长为16．点D是AB边的中点,BD=2,过点D作AB的垂线l,E是l上任意一点,则△AEC的周长最小值为()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\5919.png",
+        "correctans": "12",
+        "length": 63,
+        "know": [
+            "垂线",
+            "对称",
+            "距离"
+        ],
+        "knownum": 3,
+        "total": 197,
+        "answer": "16",
+        "correct": 68,
+        "mistake": 121,
+        "error": 2,
+        "acc ": 0.34517766497461927,
+        "mis": 0.6142131979695431,
+        "err": 0.01015228426395939
+    },
+    {
+        "id": 1819,
+        "question": "如图,C、D是以线段AB为直径的⊙O上两点(位于AB两侧),CD=AD,且∠ABC=70°,则∠BAD的度数是()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1819.png",
+        "correctans": "35°",
+        "length": 57,
+        "know": [
+            "等腰三角形",
+            "圆周角"
+        ],
+        "knownum": 2,
+        "total": 198,
+        "answer": "70",
+        "correct": 68,
+        "mistake": 122,
+        "error": 2,
+        "acc ": 0.3434343434343434,
+        "mis": 0.6161616161616161,
+        "err": 0.010101010101010102
+    },
+    {
+        "id": 498,
+        "question": "如图,BC⊥AE于点C,CD∥AB,∠B=50°,则∠1等于()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\498.png",
+        "correctans": "40°",
+        "length": 32,
+        "know": [
+            "垂线",
+            "内错角"
+        ],
+        "knownum": 2,
+        "total": 199,
+        "answer": "40",
+        "correct": 69,
+        "mistake": 122,
+        "error": 2,
+        "acc ": 0.34673366834170855,
+        "mis": 0.6130653266331658,
+        "err": 0.010050251256281407
+    },
+    {
+        "id": 1181,
+        "question": "如图,AB∥CD,EF⊥AB于E,EF交CD于F,已知∠1=60°,则∠2=()",
+        "imge_path": "D:\\MGeo-MLLMs\\Data\\GeoQA\\tetximage\\1181.png",
+        "correctans": "30°",
+        "length": 40,
+        "know": [
+            "同位角",
+            "内错角",
+            "平行线"
+        ],
+        "knownum": 3,
+        "total": 200,
+        "answer": "60",
+        "correct": 69,
+        "mistake": 123,
+        "error": 2,
+        "acc ": 0.345,
+        "mis": 0.615,
+        "err": 0.01
+    }
+]
